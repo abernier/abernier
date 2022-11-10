@@ -1,14 +1,20 @@
-### Hi there 👋
+Hi there 👋
+===
+
+This is a fun heading of level 2
+---
+
+Here is a list:
 
 - [rel link](docs/test.md)
 - https://github.com/abernier/vertex-journey [^foo]
 - https://github.com/abernier/vertex-journey#readme [^foo]
 - https://github.com/abernier/vertex-journey/blob/fa786ff1882843b2ac56e086651c7eb25a5b3663/src/index.js#L16-L17 [^bar]
-[^bar]: coucou bar
+[^bar]: I'm the `bar` footnote
 - https://github.com/abernier/abernier/blob/81876e46681f01d4f0d80c7b80489ecc7dfbaedc/docs/test.md?plain=1#L1
 - https://github.com/abernier/abernier/issues/1
 
-[^foo]: coucou foo
+[^foo]: I'm the `foo` foonote!
 
 ## Collapse
 
@@ -28,10 +34,10 @@
 ## Tasks
 
 TODO:
-- [ ] A
-  - [ ] A.1
-  - [x] A.2
-- [ ] B
+- [ ] task A
+  - [ ] subtask A.1
+  - [x] subtask A.2 done
+- [ ] task B
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists
 
