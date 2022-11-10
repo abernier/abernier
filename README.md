@@ -10,6 +10,8 @@
 
 [^foo]: coucou foo
 
+## Collapse
+
 <details><summary>CLICK ME</summary>
 <div>
   
@@ -23,6 +25,8 @@
 </div>
 </details>
 
+## Tasks
+
 TODO:
 - [ ] A
   - [ ] A.1
@@ -31,11 +35,16 @@ TODO:
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists
 
+## Math
 
 **The Cauchy-Schwarz Inequality**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 Math expressions - @see: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+
+## mermaid, stl, geojson
+
+https://github.blog/changelog/label/markdown/#:~:text=Mermaid%2C%20topoJSON%2C%20geoJSON%2C%20and%20ASCII%20STL%20Diagrams%20Are%20Now%20Supported%20in%20Markdown%20and%20as%20Files
 
 ```mermaid
   graph TD;
