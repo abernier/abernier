@@ -31,9 +31,6 @@ TODO:
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists
 
-asdlkjfaljsf
-  <s>coucou</s>
-
 
 **The Cauchy-Schwarz Inequality**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
@@ -136,6 +133,21 @@ solid Mesh
     endloop
   endfacet
 endsolid Mesh
+```
+
+```geojson
+{
+  "type": "Polygon",
+  "coordinates": [
+      [
+          [-90,30],
+          [-90,35],
+          [-90,35],
+          [-85,35],
+          [-85,30]
+      ]
+  ]
+}
 ```
 
 <!--
