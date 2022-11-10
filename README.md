@@ -6,10 +6,10 @@ This is a fun heading of level 2
 
 Here is a list:
 
-- [rel link](docs/test.md)
-- https://github.com/abernier/vertex-journey [^foo]
-- https://github.com/abernier/vertex-journey#readme [^foo]
-- https://github.com/abernier/vertex-journey/blob/fa786ff1882843b2ac56e086651c7eb25a5b3663/src/index.js#L16-L17 [^bar]
+- A [relative link](docs/test.md) that points to local repo's file `docs/test.md`
+- A link to another repo: https://github.com/abernier/vertex-journey [^foo]
+- And to its `#readme` section: https://github.com/abernier/vertex-journey#readme [^foo]
+- A link to code line 16—17 (external repo): https://github.com/abernier/vertex-journey/blob/fa786ff1882843b2ac56e086651c7eb25a5b3663/src/index.js#L16-L17 [^bar]
 [^bar]: I'm the `bar` footnote
 - https://github.com/abernier/abernier/blob/81876e46681f01d4f0d80c7b80489ecc7dfbaedc/docs/test.md?plain=1#L1
 - https://github.com/abernier/abernier/issues/1
