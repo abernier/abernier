@@ -1,17 +1,20 @@
 ### Hi there 👋
 
 - [rel link](docs/test.md)
-- https://github.com/abernier/vertex-journey
-- https://github.com/abernier/vertex-journey#readme
-- https://github.com/abernier/vertex-journey/blob/fa786ff1882843b2ac56e086651c7eb25a5b3663/src/index.js#L16-L17
+- https://github.com/abernier/vertex-journey [^foo]
+- https://github.com/abernier/vertex-journey#readme [^foo]
+- https://github.com/abernier/vertex-journey/blob/fa786ff1882843b2ac56e086651c7eb25a5b3663/src/index.js#L16-L17 [^bar]
+[^bar]: coucou bar
 - https://github.com/abernier/abernier/blob/81876e46681f01d4f0d80c7b80489ecc7dfbaedc/docs/test.md?plain=1#L1
 - https://github.com/abernier/abernier/issues/1
 
+[^foo]: coucou foo
 
 <details><summary>CLICK ME</summary>
 <div>
   
-#### We can hide anything, even code!
+#### We can hide anything, even code![^1]
+[^1]: My reference.
 
 ```ruby
    puts "Hello World"
