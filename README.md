@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[rel link](docs/test.md)
+
 <!--
 **abernier/abernier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
