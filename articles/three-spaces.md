@@ -189,3 +189,5 @@ sequenceDiagram
 
   object->>camera:vec.applyMatrix4(object.modelViewMatrix)
 ```
+
+<script src="https://unpkg.com/browse/mermaid@9.2.2/dist/mermaid.min.js"></script>
