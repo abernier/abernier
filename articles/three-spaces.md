@@ -190,6 +190,8 @@ sequenceDiagram
   object->>camera:vec.applyMatrix4(object.modelViewMatrix)
 ```
 
+## _
+
 <script type="module">
 import mermaid from 'https://unpkg.com/mermaid@9.2.2/dist/mermaid.esm.min.mjs';
 mermaid.init(undefined, '.language-mermaid');
