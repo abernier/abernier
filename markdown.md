@@ -35,9 +35,6 @@ TODO:
   - [ ] subtask A.1
   - [x] subtask A.2 done
 - [ ] task B
-- from issues:
-  - [ ] https://github.com/abernier/abernier/issues/1
-  - [ ] https://github.com/abernier/abernier/issues/2
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists
 
