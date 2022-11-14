@@ -192,7 +192,15 @@ sequenceDiagram
 
 ## _
 
-<script type="module">
-import mermaid from 'https://unpkg.com/mermaid@9.2.2/dist/mermaid.esm.min.mjs';
-mermaid.init(undefined, '.language-mermaid');
-</script>
+<details>
+  <!--
+  Following is for https://abernier.github.io/abernier website
+  -->
+  
+  <script type="module">
+  import mermaid from 'https://unpkg.com/mermaid@9.2.2/dist/mermaid.esm.min.mjs';
+  mermaid.init(undefined, '.language-mermaid');
+  </script>
+</details>
+
+
