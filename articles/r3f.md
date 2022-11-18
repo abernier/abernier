@@ -19,7 +19,7 @@ THREE
 ---
 
 ```js
-const scene = new THREE.Scene() // [^1] Canvas <-> scene
+const scene = new THREE.Scene() // Canvas <-> scene
 
 const mesh = new THREE.Mesh() // element <-> Class
 mesh.name = "myCube" // prop <-> property
