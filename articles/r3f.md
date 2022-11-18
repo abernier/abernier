@@ -33,5 +33,7 @@ mesh.add(spotLight)                               // 7. .add() to parent (mesh)
 scene.add(mesh)
 ```
 
+- 1. https://docs.pmnd.rs/react-three-fiber/api/canvas
 - 4: https://docs.pmnd.rs/react-three-fiber/api/objects#attach
-- 7: https://docs.pmnd.rs/react-three-fiber/api/objects#set
+- 5. https://docs.pmnd.rs/react-three-fiber/api/objects#constructor-arguments
+- 6: https://docs.pmnd.rs/react-three-fiber/api/objects#set
