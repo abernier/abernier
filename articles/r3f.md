@@ -24,8 +24,7 @@ const scene = new THREE.Scene() // [^1] Canvas <-> scene
 const mesh = new THREE.Mesh() // element <-> Class
 mesh.name = "myCube" // prop <-> property
 mesh.material = new THREE.meshNormalMaterial() // attach instance to .material
-mesh.geometry = new THREE.BoxGeometry(1,1,1) // args <->
-constructor
+mesh.geometry = new THREE.BoxGeometry(1,1,1) // args <-> constructor
 
 const spotLight = new THREE.SpotLight()
 spotLight.position.set(15, 15, 15) // Vector3.set method
