@@ -1,4 +1,4 @@
-r3f : THREE
+r3f:THREE
 ===
 
 r3f
@@ -14,6 +14,8 @@ r3f
   </mesh>
 </Canvas>
 ```
+
+translates to
 
 THREE
 ---
