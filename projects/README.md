@@ -2,7 +2,7 @@
 
 - vscode.school -- 
 
-- thingy -- procedural 3d anim
+- WIP thingy -- procedural 3d anim
 - tpl-{[three](https://github.com/abernier/tpl-three),[react](https://github.com/abernier/tpl-react),[react-three](https://github.com/abernier/tpl-react-three)} -- template repos (Github Pages + Codespaces enabled)
   - https://twitter.com/abernier_/status/1592676709308182529
   - https://github.com/actions/starter-workflows/pull/1824
