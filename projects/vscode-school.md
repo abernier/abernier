@@ -6,6 +6,8 @@ Format : vscode/codespace full-integrated (devcontainer) -- l'idée est de se "r
 
 Positionnement : pour les devs plutôt confirmés -- ce qui permettra de skip le b-a-ba pour se concentrer sur des sujets plus pointus => valeur
 
+Domaine : https://vscode.school
+
 ## [/r3f](https://vscode.school/r3f) module
 
 - bases Three.js ? (spaces...)
