@@ -11,4 +11,6 @@ Positionnement : pour les devs plutôt confirmés -- ce qui permettra de skip le
 - bases Three.js ? (spaces...)
 - bases React ? (useState, useEffectLayout...)
 
+NB: doit-on traiter les bases (de chez bases)?
+
 - 
