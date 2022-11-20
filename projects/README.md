@@ -1,6 +1,6 @@
 # Projects
 
-- vscode.school -- 
+- [vscode.school](vscode-school.md)
 
 - WIP thingy -- procedural 3d anim
   - https://github.com/mrdoob/three.js/pull/24988
