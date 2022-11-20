@@ -3,7 +3,8 @@ vscode.school
 
 Idée directrice : se former à des sujets, ridiger des notes, se donner des challenges qui deviendront les cours/exercices des formations
 
-Format : vscode/codespace full-integrated (devcontainer) -- l'idée est de se "reposer sur l'épaule d'un géant" : Github / Microsoft(même si ça fait mal à dire)
+Format : vscode/codespace full-integrated (devcontainer)
+L'idée est aussi de tirer avantage d'un "géant" : Github / Microsoft
 
 Positionnement : pour les devs plutôt confirmés -- ce qui permettra de skip le b-a-ba pour se concentrer sur des sujets plus pointus => valeur
 
