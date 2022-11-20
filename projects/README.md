@@ -8,8 +8,10 @@
     - https://twitter.com/abernier_/status/1592676709308182529
     - https://github.com/actions/starter-workflows/pull/1824
   - https://github.com/abernier/abernier/blob/main/articles/three-spaces.md
+    - https://discourse.threejs.org/t/change-of-basis-memo/44595
   - https://github.com/abernier/vertex-journey
 - r3f-sticky -- offscreen pin
+  - https://discourse.threejs.org/t/bounding-sphere-projected-height-on-screen/43225
 - [Kira](https://abernier.github.io/three.js/examples/webgl_esher.html)
   - https://twitter.com/abernier_/status/1570685457104797705
   - https://threejs.org/examples/#webgl_animation_skinning_ik
