@@ -1,4 +1,4 @@
-# [vscode.school](https://vscode.school)
+# vscode.school
 
 Idée directrice : se former à des sujets, ridiger des notes, se donner des challenges qui deviendront les cours/exercices des formation 
 
