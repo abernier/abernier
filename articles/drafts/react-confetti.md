@@ -20,6 +20,8 @@ We create a `myConfetti` instance, that is a function we can call to fire confet
 
 [Codepen](https://codepen.io/abernier/pen/NWzYXwv)
 
+---
+
 Reading the [API](https://github.com/catdad/canvas-confetti#api), we can also pass arguments when creating the instance:
 
 ```js
