@@ -37,7 +37,7 @@ myConfetti(options);
 
 ## React component
 
-We would like this:
+Let's create a React component:
 
 ```jsx
 <Confetti
@@ -57,7 +57,10 @@ const Confetti = (props) => {
   const { options, globalOptions, ...rest } = props;
   const instanceRef = useRef(null); // confetti instance
 
-  // our <canvas> DOM ref
+  //
+  // confetti instance
+  //
+
   const canvasRef = useCallback(
     (node) => {
       if (node !== null) {
@@ -73,7 +76,10 @@ const Confetti = (props) => {
     [globalOptions]
   );
 
-  // `fire` is a function that call the instance() with `opts` merged with `options`
+  //
+  // `fire` is a function that call the instance function with `opts` merged with `options`
+  //
+
   const fire = useCallback(
     (opts = {}) => {
       const instance = instanceRef.current;
@@ -94,6 +100,8 @@ const Confetti = (props) => {
 
 export default Confetti;
 ```
+
+NB: we use a `canvasRef` [callback ref](https://reactjs.org/docs/refs-and-the-dom.html#callback-refs) here to get control over when the element is mounted/unmounted.
 
 [Codesandbox](https://codesandbox.io/s/gallant-elbakyan-vnr7bl?file=/src/Confetti.jsx)
 
