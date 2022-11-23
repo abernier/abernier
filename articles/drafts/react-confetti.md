@@ -1,5 +1,3 @@
-[![image](https://user-images.githubusercontent.com/76580/203612125-f6f7883a-3e83-4730-8920-94c38397a4cd.png)](https://www.npmjs.com/package/canvas-confetti)
-
 [`canvas-confetti`](https://www.npmjs.com/package/canvas-confetti) is a popular vanilla-javascript library.
 
 ## Javascript API
