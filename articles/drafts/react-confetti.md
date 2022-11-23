@@ -86,10 +86,8 @@ const Confetti = (props) => {
   );
 
   useEffect(() => {
-    if (!manualstart) {
-      fire();
-    }
-  }, [manualstart, fire]);
+    fire();
+  }, [fire]);
 
   return <canvas ref={canvasRef} {...rest} />;
 };
