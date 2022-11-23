@@ -111,5 +111,21 @@ const confettiRef = useRef()
 For this, we can use `forwardRef` and `useImperativeHandle`:
 
 ```jsx
-
+const Confetti = forwardRef((props, ref) => {
+  // ...
+  
+  // expose an object API
+  useImperativeHandle(ref, () => ({
+    fire
+  }));
+  
+  useEffect(() => {
+    if (!manualstart) {
+      fire();
+    }
+  }, [manualstart, fire]);
+  
+  // ...
+})
 ```
+
