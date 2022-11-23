@@ -123,7 +123,7 @@ const Confetti = forwardRef((props, ref) => {
   
   useEffect(() => {
     if (!manualstart) {
-      fire();
+      fire(); // fire unless `manualstart` prop is true
     }
   }, [manualstart, fire]);
   
