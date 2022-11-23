@@ -110,7 +110,7 @@ const confettiRef = useRef()
 <button onClick={() => confettiRef.current.fire({ particleCount: Math.round(Math.random()*100) }) }>
 ```
 
-For this, we can use `forwardRef` to pass `confettiRef` to the component, and `useImperativeHandle` to attach an api object to it:
+For this, we can use [`forwardRef`](https://reactjs.org/docs/forwarding-refs.html) to pass this `confettiRef` to the component, and [`useImperativeHandle`](https://reactjs.org/docs/hooks-reference.html#useimperativehandle) to attach an api object to it:
 
 ```jsx
 const Confetti = forwardRef((props, ref) => {
@@ -119,7 +119,7 @@ const Confetti = forwardRef((props, ref) => {
   // expose an API object to the forwarded ref
   useImperativeHandle(ref, () => ({
     fire
-  }));
+  }), [fire]);
   
   useEffect(() => {
     if (!manualstart) {
