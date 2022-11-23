@@ -132,6 +132,8 @@ const confettiRef = useRef()
 <button onClick={() => confettiRef.current.fire({ particleCount: Math.round(Math.random()*100) }) }>
 ```
 
+NB: `manualstart` is a new prop we introduce to disable auto-firing
+
 For this, [`forwardRef`](https://reactjs.org/docs/forwarding-refs.html) will allow us to pass this `confettiRef` to the component, and [`useImperativeHandle`](https://reactjs.org/docs/hooks-reference.html#useimperativehandle) to attach an api object to it, exposing `fire`:
 
 ```jsx
