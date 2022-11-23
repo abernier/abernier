@@ -52,7 +52,7 @@ import { useRef, useCallback, useEffect } from "react";
 import confetti from "canvas-confetti";
 
 const Confetti = (props) => {
-  const { options, globalOptions, manualstart = false, ...rest } = props;
+  const { options, globalOptions, ...rest } = props;
   const instanceRef = useRef(null); // confetti instance
 
   // our <canvas> DOM ref
@@ -98,7 +98,7 @@ export default Confetti;
 
 ## 
 
-Now, we would like to `fire()` when clicking on a button:
+Now, we would like to manually start the `fire()`, when clicking on a button:
 
 ```jsx
 const const confettiRef = useRef()
@@ -110,6 +110,6 @@ const const confettiRef = useRef()
 
 For this, we can use `forwardRef` and `useImperativeHandle`:
 
-```
+```jsx
 
 ```
