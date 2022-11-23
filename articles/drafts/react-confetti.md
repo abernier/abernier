@@ -16,7 +16,7 @@ const myConfetti = confetti.create(myCanvas); // instance
 myConfetti();
 </script>
 ```
-We create a `myConfetti` instance, that is a function we can call to fire confettis.
+We create a `myConfetti` instance, that is a function we can call later to fire confettis.
 
 [Codepen](https://codepen.io/abernier/pen/NWzYXwv)
 
