@@ -100,7 +100,7 @@ export default Confetti;
 
 ### Expose API through a ref
 
-Now, we would like to manually start the `fire()`, when clicking on a button:
+From the parent, we'd like to manually trigger the `fire` function, eg, when clicking on a button:
 
 ```jsx
 const confettiRef = useRef()
@@ -110,7 +110,7 @@ const confettiRef = useRef()
 <button onClick={() => confettiRef.current.fire({ particleCount: Math.round(Math.random()*100) }) }>
 ```
 
-For this, we can use [`forwardRef`](https://reactjs.org/docs/forwarding-refs.html) to pass this `confettiRef` to the component, and [`useImperativeHandle`](https://reactjs.org/docs/hooks-reference.html#useimperativehandle) to attach an api object to it:
+For this, [`forwardRef`](https://reactjs.org/docs/forwarding-refs.html) will allow us to pass this `confettiRef` to the component, and [`useImperativeHandle`](https://reactjs.org/docs/hooks-reference.html#useimperativehandle) to attach an api object to it, exposing `fire`:
 
 ```jsx
 const Confetti = forwardRef((props, ref) => {
