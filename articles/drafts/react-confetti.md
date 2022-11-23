@@ -20,7 +20,7 @@ We create a `myConfetti` instance, that is a function we can call to fire confet
 
 [Codepen](https://codepen.io/abernier/pen/NWzYXwv)
 
-Reading the [API](https://github.com/catdad/canvas-confetti#api), we can also pass arguments:
+Reading the [API](https://github.com/catdad/canvas-confetti#api), we can also pass arguments when creating the instance:
 
 ```js
 const globalOptions = {
@@ -28,7 +28,11 @@ const globalOptions = {
   useWorker: true
 }
 const myConfetti = confetti.create(myCanvas, globalOptions);
+```
 
+or when firing it:
+
+```js
 const options = {
   particleCount: 100,
   colors: ['#0000ff', '#eeeeee', '#ff0000']
