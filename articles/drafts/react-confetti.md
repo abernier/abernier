@@ -98,7 +98,7 @@ export default Confetti;
 [Codesandbox](https://codesandbox.io/s/gallant-elbakyan-vnr7bl?file=/src/Confetti.jsx)
 
 
-## 
+### Expose API through a ref
 
 Now, we would like to manually start the `fire()`, when clicking on a button:
 
