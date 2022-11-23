@@ -1,5 +1,12 @@
 Markdown cheatsheet
+===
+
+Misc
 ---
+
+<!--
+I'm a comment
+-->
 
 Here is a list:
 
@@ -10,10 +17,20 @@ Here is a list:
 [^bar]: I'm the `bar` footnote
 - A link to code (this repo): https://github.com/abernier/abernier/blob/81876e46681f01d4f0d80c7b80489ecc7dfbaedc/docs/test.md?plain=1#L1
 - https://github.com/abernier/abernier/issues/1
+- Keyboard: <kbd>w</kbd><kbd>a</kbd><kbd>s</kbd><kbd>d</kbd> + <kbd>space</kbd>
+- What the <del>fuck</del><ins>hell</ins>!
 
 [^foo]: I'm the `foo` foonote!
 
-## Collapse
+|ColA|ColB|
+|-|-|
+|one|two|
+
+> hey I'm fine!
+>> Hey how are you
+
+Collapse
+---
 
 <details><summary>CLICK ME</summary>
 <div>
@@ -28,7 +45,8 @@ Here is a list:
 </div>
 </details>
 
-## Tasks
+Tasks
+---
 
 TODO:
 - [ ] task A
@@ -162,8 +180,9 @@ endsolid Mesh
 }
 ```
 
-<!--
-https://github.blog/tag/markdown/
+Ressources
+---
 
-https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls
--->
+- SPEC: https://github.github.com/gfm
+- https://github.blog/tag/markdown/
+- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls
