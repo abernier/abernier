@@ -45,6 +45,8 @@ myConfetti(options);
 
 ## React component
 
+Now we have the imperative API in mind, let's create a declarative React component of it.
+
 ### Signature
 
 ```jsx
