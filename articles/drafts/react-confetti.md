@@ -96,3 +96,22 @@ export default Confetti;
 ```
 
 [Codesandbox](https://codesandbox.io/s/gallant-elbakyan-vnr7bl?file=/src/Confetti.jsx)
+
+
+## 
+
+Now, we would like to `fire()` when clicking on a button:
+
+```jsx
+const const confettiRef = useRef()
+
+<Confetti ref={confettiRef} manualstart />
+
+<button onClick={() => confettiRef.current.fire({ particleCount: Math.round(Math.random()*100) }) }>
+```
+
+For this, we can use `forwardRef` and `useImperativeHandle`:
+
+```
+
+```
