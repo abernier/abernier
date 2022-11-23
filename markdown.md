@@ -15,10 +15,10 @@ Here is a list:
 - And to its `#readme` section: https://github.com/abernier/vertex-journey#readme [^foo]
 - A link to code line 16—17 (external repo): https://github.com/abernier/vertex-journey/blob/fa786ff1882843b2ac56e086651c7eb25a5b3663/src/index.js#L16-L17 [^bar]
 [^bar]: I'm the `bar` footnote
-- A link to code (this repo): https://github.com/abernier/abernier/blob/81876e46681f01d4f0d80c7b80489ecc7dfbaedc/docs/test.md?plain=1#L1
-- https://github.com/abernier/abernier/issues/1
-- Keyboard: <kbd>w</kbd><kbd>a</kbd><kbd>s</kbd><kbd>d</kbd> + <kbd>space</kbd>
-- What the <del>fuck</del><ins>hell</ins>!
+- A permalink to an deleted/old file (of this repo): https://github.com/abernier/abernier/blob/81876e46681f01d4f0d80c7b80489ecc7dfbaedc/docs/test.md?plain=1#L1
+- a link to a closed issue: https://github.com/abernier/abernier/issues/1
+- some keyboard keys: <kbd>w</kbd><kbd>a</kbd><kbd>s</kbd><kbd>d</kbd> + <kbd>space</kbd>
+- An edited text: What the <del>fuck</del><ins>hell</ins>!
 
 [^foo]: I'm the `foo` foonote!
 
