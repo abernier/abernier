@@ -131,3 +131,5 @@ const Confetti = forwardRef((props, ref) => {
 })
 ```
 
+## Typing
+
