@@ -101,7 +101,7 @@ export default Confetti;
 Now, we would like to manually start the `fire()`, when clicking on a button:
 
 ```jsx
-const const confettiRef = useRef()
+const confettiRef = useRef()
 
 <Confetti ref={confettiRef} manualstart />
 
