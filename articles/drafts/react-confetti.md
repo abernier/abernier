@@ -2,6 +2,8 @@
 
 ## Javascript API
 
+The simplest form is:
+
 ```html
 <canvas id="myCanvas"></canvas>
 
@@ -16,7 +18,7 @@ myConfetti();
 ```
 [Codepen](https://codepen.io/abernier/pen/NWzYXwv)
 
-This is the simplest form (without any arguments), the [API](https://github.com/catdad/canvas-confetti#api) allows passing parameters:
+Reading the [API](https://github.com/catdad/canvas-confetti#api), we can also pass arguments:
 
 ```js
 const globalOptions = {
