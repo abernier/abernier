@@ -77,7 +77,7 @@ const Confetti = (props) => {
   );
 
   //
-  // `fire` is a function that call the instance function with `opts` merged with `options`
+  // `fire` is a function that call the instance function with `opts` merged with `options` prop
   //
 
   const fire = useCallback(
