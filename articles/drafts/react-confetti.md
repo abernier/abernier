@@ -45,7 +45,7 @@ myConfetti(options);
 
 ## React component
 
-Let's create a React component:
+### Signature
 
 ```jsx
 <Confetti
@@ -56,6 +56,10 @@ Let's create a React component:
   }}
 />
 ```
+
+NB: `globalOptions` and `options` will be optional props
+
+### Implementation
 
 ```jsx
 import { useRef, useCallback, useEffect } from "react";
@@ -114,7 +118,7 @@ NB: we use a `canvasRef` [callback ref](https://reactjs.org/docs/refs-and-the-do
 [Codesandbox](https://codesandbox.io/s/gallant-elbakyan-vnr7bl?file=/src/Confetti.jsx)
 
 
-### Expose API through a ref
+#### Expose API through a ref
 
 From the parent, we'd like to manually trigger the `fire` function, eg, when clicking on a button:
 
@@ -147,5 +151,5 @@ const Confetti = forwardRef((props, ref) => {
 })
 ```
 
-## Typing
+#### Typing
 
