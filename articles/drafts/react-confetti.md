@@ -170,7 +170,53 @@ const Confetti = forwardRef((props, ref) => {
 
 #### `fire` from descendant
 
-TODO
+```jsx
+const ConfettiContext = createContext()
+
+const Confetti = forwardRef((props, ref) => {
+
+  // ...
+  
+  return (
+    <ConfettiContext.Provider value={api}>
+      <canvas ref={canvasRef} {...rest} />
+      {children}
+    </ConfettiContext.Provider>
+  )
+})
+
+const useConfetti = () => useContext(ConfettiContext)
+```
+
+now we can `useConfetti()` in a descendant component to access its api:
+
+```jsx
+<Confetti manualstart>
+  <Button>Fire</Button>
+</Confetti>
+```
+
+```jsx
+import { useConfetti } from "./Confetti";
+
+const Button = () => {
+  const { fire } = useConfetti();
+
+  return (
+    <button
+      onClick={() => {
+        fire();
+      }}
+    >
+      Fire
+    </button>
+  );
+};
+
+export default Button;
+```
+
+[Codesandbox](https://codesandbox.io/s/silly-bessie-mky7lo?file=/src/Button.jsx:0-234)
 
 #### Typing
 
