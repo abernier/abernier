@@ -239,7 +239,7 @@ export default Button;
 
 Thanks to [`@types/canvas-confetti`](https://www.npmjs.com/package/@types/canvas-confetti) we'll add typing to our implementation.
 
-Typing adds some complexity but that often is worthwhile, as it secures your code and brings intellisense auto-completion:
+Typing undeniably adds some complexity but that often worth it, as it secures your code and brings intellisense auto-suggestion:
 <img width="742" alt="image" src="https://user-images.githubusercontent.com/76580/203809669-a7716128-48b1-4c5c-bc47-6d96a31c1e83.png">
 
 Following strategies have been adopted:
