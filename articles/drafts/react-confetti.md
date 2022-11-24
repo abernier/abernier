@@ -142,7 +142,9 @@ For this, [`forwardRef`](https://reactjs.org/docs/forwarding-refs.html) will all
 const Confetti = forwardRef((props, ref) => {
   // ...
   
+  //
   // expose an API object to the forwarded ref
+  //
   
   const api = useMemo(() => ({
     fire
@@ -150,9 +152,13 @@ const Confetti = forwardRef((props, ref) => {
 
   useImperativeHandle(ref, () => api, [api]);
   
+  //
+  // Auto fire unless `manualstart`
+  //
+
   useEffect(() => {
     if (!manualstart) {
-      fire(); // fire unless `manualstart` prop is true
+      fire();
     }
   }, [manualstart, fire]);
   
