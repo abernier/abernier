@@ -136,7 +136,9 @@ const confettiRef = useRef()
 
 <Confetti ref={confettiRef} manualstart />
 
-<button onClick={() => confettiRef.current.fire({ particleCount: Math.round(Math.random()*100) }) }>
+<button onClick={() => {
+  confettiRef.current.fire({particleCount: Math.round(Math.random()*100)})
+}}>
 ```
 
 NB: `manualstart` is a new prop we introduce to disable auto-firing
