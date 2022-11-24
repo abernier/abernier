@@ -143,9 +143,12 @@ const Confetti = forwardRef((props, ref) => {
   // ...
   
   // expose an API object to the forwarded ref
-  useImperativeHandle(ref, () => ({
+  
+  const api = useMemo(() => ({
     fire
-  }), [fire]);
+  }), [fire])
+
+  useImperativeHandle(ref, () => api, [api]);
   
   useEffect(() => {
     if (!manualstart) {
