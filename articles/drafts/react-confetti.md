@@ -166,6 +166,8 @@ const Confetti = forwardRef((props, ref) => {
 })
 ```
 
+[Codesandbox](https://codesandbox.io/s/modest-phoebe-lztysi?file=/src/Confetti.jsx)
+
 #### `fire` from descendant
 
 TODO
