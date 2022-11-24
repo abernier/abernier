@@ -220,4 +220,4 @@ export default Button;
 
 #### Typing
 
-TODO
+[Codesandbox](https://codesandbox.io/s/nervous-panini-h6mlcm?file=/src/Confetti.tsx)
