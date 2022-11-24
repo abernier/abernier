@@ -200,7 +200,7 @@ now we can `useConfetti()` in a descendant component to access its api:
 import { useConfetti } from "./Confetti";
 
 const Button = () => {
-  const { fire } = useConfetti();
+  const { fire } = useConfetti(); // hook into the api
 
   return (
     <button
