@@ -122,7 +122,7 @@ NB: we use a `canvasRef` [callback ref](https://reactjs.org/docs/refs-and-the-do
 [Codesandbox](https://codesandbox.io/s/gallant-elbakyan-vnr7bl?file=/src/Confetti.jsx)
 
 
-#### Expose API through a ref
+#### `fire` from parent
 
 From the parent, we'd like to manually trigger the `fire` function, eg, when clicking on a button:
 
@@ -157,5 +157,10 @@ const Confetti = forwardRef((props, ref) => {
 })
 ```
 
+#### `fire` from descendant
+
+TODO
+
 #### Typing
 
+TODO
