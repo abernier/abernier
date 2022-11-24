@@ -68,6 +68,8 @@ NB: `globalOptions` and `options` will be optional props
 
 ### Implementation
 
+Our base implementation will be:
+
 ```jsx
 import { useRef, useCallback, useEffect } from "react";
 import confetti from "canvas-confetti";
@@ -127,7 +129,7 @@ NB: we use a `canvasRef` [callback ref](https://reactjs.org/docs/refs-and-the-do
 
 #### `fire` from parent
 
-From the parent (where the component is instantiated), we'd like to manually trigger the `fire` function, eg, when clicking on a button:
+Now, from the parent (where the component is instantiated), we'd like to manually trigger the `fire` function, eg, when clicking on a button:
 
 ```jsx
 const confettiRef = useRef()
