@@ -66,7 +66,7 @@ Now we have the imperative API in mind, let's create a declarative React compone
 
 NB: `globalOptions` and `options` will be optional props
 
-### Implementation
+### Step 1 - Base implementation
 
 Our base implementation will be:
 
@@ -127,7 +127,7 @@ NB: we use a `canvasRef` [callback ref](https://reactjs.org/docs/refs-and-the-do
 [Codesandbox](https://codesandbox.io/s/gallant-elbakyan-vnr7bl?file=/src/Confetti.jsx)
 
 
-#### `fire` from parent
+### Step 2 - `fire` from parent
 
 Now, from the parent (where the component is instantiated), we'd like to manually trigger the `fire` function, eg, when clicking on a button:
 
@@ -173,7 +173,7 @@ const Confetti = forwardRef((props, ref) => {
 
 [Codesandbox](https://codesandbox.io/s/modest-phoebe-lztysi?file=/src/Confetti.jsx)
 
-#### `fire` from descendant
+### Step 3 - `fire` from descendant
 
 ```jsx
 const ConfettiContext = createContext()
@@ -223,7 +223,7 @@ export default Button;
 
 [Codesandbox](https://codesandbox.io/s/silly-bessie-mky7lo?file=/src/Button.jsx:0-234)
 
-## Typing
+### Step 4 - Typing
 
 Typing adds some complexity but that often is worthwhile, as it secures your code and brings intellisense auto-completion:
 <img width="742" alt="image" src="https://user-images.githubusercontent.com/76580/203809669-a7716128-48b1-4c5c-bc47-6d96a31c1e83.png">
