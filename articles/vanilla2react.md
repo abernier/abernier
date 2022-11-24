@@ -128,7 +128,7 @@ const Confetti = (props) => {
 export default Confetti;
 ```
 
-NB: we use a `canvasRef` [callback ref](https://reactjs.org/docs/refs-and-the-dom.html#callback-refs) here to get control over when the element is mounted/unmounted.
+NB: we use a `canvasRef` [callback ref](https://reactjs.org/docs/refs-and-the-dom.html#callback-refs) here to get control over when the element is mounted/unmounted and create/destroy the confetti instance accordingly.
 
 [▶️ Codesandbox](https://codesandbox.io/s/gallant-elbakyan-vnr7bl?file=/src/Confetti.jsx)
 
