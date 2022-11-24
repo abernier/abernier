@@ -242,14 +242,12 @@ Thanks to [`@types/canvas-confetti`](https://www.npmjs.com/package/@types/canvas
 Typing undeniably adds some complexity but that often worth it, as it secures your code and brings intellisense auto-suggestion:
 <img width="742" alt="image" src="https://user-images.githubusercontent.com/76580/203809669-a7716128-48b1-4c5c-bc47-6d96a31c1e83.png">
 
+Here is the final typed version: [▶️ Codesandbox](https://codesandbox.io/s/nervous-panini-h6mlcm?file=/src/Confetti.tsx)
+
 Following strategies have been adopted:
 - mirroring HTML element: https://stackoverflow.com/a/74562184/133327
 - `forwardRef`: https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/forward_and_create_ref/
 - context: https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/context
-
----
-
-**Final typed version is here: [▶️ Codesandbox](https://codesandbox.io/s/nervous-panini-h6mlcm?file=/src/Confetti.tsx)**
 
 
 
