@@ -4,7 +4,7 @@ A pretty common scenario in a React environment is to transpose a JS library to 
 
 ## Javascript API
 
-The simplest form is:
+The simplest form in using this library is:
 
 ```html
 <canvas id="myCanvas"></canvas>
