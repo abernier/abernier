@@ -23,7 +23,7 @@ myConfetti();
 ```
 We create a `myConfetti` instance, that is a function we can call later to fire confettis.
 
-[Codepen](https://codepen.io/abernier/pen/NWzYXwv)
+[▶️ Codepen](https://codepen.io/abernier/pen/NWzYXwv)
 
 ---
 
@@ -46,7 +46,7 @@ const options = {
 }
 myConfetti(options);
 ```
-[Codepen](https://codepen.io/abernier/pen/NWzYXey?editors=1010)
+[▶️ Codepen](https://codepen.io/abernier/pen/NWzYXey?editors=1010)
 
 ## React component
 
@@ -124,7 +124,7 @@ export default Confetti;
 
 NB: we use a `canvasRef` [callback ref](https://reactjs.org/docs/refs-and-the-dom.html#callback-refs) here to get control over when the element is mounted/unmounted.
 
-[Codesandbox](https://codesandbox.io/s/gallant-elbakyan-vnr7bl?file=/src/Confetti.jsx)
+[▶️ Codesandbox](https://codesandbox.io/s/gallant-elbakyan-vnr7bl?file=/src/Confetti.jsx)
 
 
 ### Step 2 - `fire` from parent
@@ -171,7 +171,7 @@ const Confetti = forwardRef((props, ref) => {
 })
 ```
 
-[Codesandbox](https://codesandbox.io/s/modest-phoebe-lztysi?file=/src/Confetti.jsx)
+[▶️ Codesandbox](https://codesandbox.io/s/modest-phoebe-lztysi?file=/src/Confetti.jsx)
 
 ### Step 3 - `fire` from descendant
 
@@ -239,7 +239,7 @@ Following strategies have been adopted:
 
 ---
 
-**Final typed version is here: [Codesandbox](https://codesandbox.io/s/nervous-panini-h6mlcm?file=/src/Confetti.tsx)**
+**Final typed version is here: [▶️ Codesandbox](https://codesandbox.io/s/nervous-panini-h6mlcm?file=/src/Confetti.tsx)**
 
 
 
