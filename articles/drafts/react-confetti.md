@@ -1,6 +1,9 @@
+Transposing vanilla JS lib to a React component
+===
+
 A pretty common scenario in a React environment is to transpose a JS library to a React component...
 
-[`canvas-confetti`](https://www.npmjs.com/package/canvas-confetti) is a popular vanilla-javascript library, with no React support.
+[`canvas-confetti`](https://www.npmjs.com/package/canvas-confetti) is a popular vanilla-javascript library, with no React support, we'll take as an example.
 
 ## Javascript API
 
