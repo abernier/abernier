@@ -218,7 +218,7 @@ export default Button;
 
 [Codesandbox](https://codesandbox.io/s/silly-bessie-mky7lo?file=/src/Button.jsx:0-234)
 
-#### Typing
+## Typing
 
 Typing adds some complexity but that often is worthwhile, as it secures your code and brings intellisense auto-completion:
 <img width="742" alt="image" src="https://user-images.githubusercontent.com/76580/203809669-a7716128-48b1-4c5c-bc47-6d96a31c1e83.png">
