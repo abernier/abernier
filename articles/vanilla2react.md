@@ -3,7 +3,7 @@ vanilla2react
 
 A pretty common use case in a React environment is to transpose a vanilla JS library to a React component...
 
-[`canvas-confetti`](https://www.npmjs.com/package/canvas-confetti) is a popular vanilla-javascript library, with no React support, we'll take as an example.
+[`canvas-confetti`](https://www.npmjs.com/package/canvas-confetti) is a popular vanilla-javascript library, with [no React support](https://github.com/catdad/canvas-confetti/issues/138), we'll take as an example.
 
 ## Javascript API
 
