@@ -54,6 +54,8 @@ Now we have the imperative API in mind, let's create a declarative React compone
 
 ### Signature
 
+Here is the component we'd like:
+
 ```jsx
 <Confetti
   globalOptions={{resize: true, useWorkder: true}}
