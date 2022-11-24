@@ -175,6 +175,16 @@ const Confetti = forwardRef((props, ref) => {
 
 ### Step 3 - `fire` from descendant
 
+To `fire` from a descendant component, eg: from inside `<Button>`:
+
+```jsx
+<Confetti manualstart>
+  <Button>Fire</Button>
+</Confetti>
+```
+
+we can then use a context/hook:
+
 ```jsx
 const ConfettiContext = createContext()
 
@@ -193,13 +203,7 @@ const Confetti = forwardRef((props, ref) => {
 const useConfetti = () => useContext(ConfettiContext)
 ```
 
-now we can `useConfetti()` in a descendant component to access its api:
-
-```jsx
-<Confetti manualstart>
-  <Button>Fire</Button>
-</Confetti>
-```
+Then, we can `useConfetti()` hook within `Button` to access its api:
 
 ```jsx
 import { useConfetti } from "./Confetti";
