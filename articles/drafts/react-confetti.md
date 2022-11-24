@@ -220,4 +220,24 @@ export default Button;
 
 #### Typing
 
+##### Wrapping `canvas` element
+
+```tsx
+interface Props extends React.ComponentPropsWithRef<"canvas"> {
+  // ...
+}
+
+const Confetti = (props: Props) => {
+  const { /**/ , ...rest} = props
+  
+  // ...
+  
+  return <canvas {...rest} />
+}
+```
+
+cf. https://stackoverflow.com/a/74562184/133327
+
+##### 
+
 [Codesandbox](https://codesandbox.io/s/nervous-panini-h6mlcm?file=/src/Confetti.tsx)
