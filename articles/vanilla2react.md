@@ -128,6 +128,8 @@ const Confetti = (props) => {
 export default Confetti;
 ```
 
+A straight function-component that `.create`s the confetti instance (once `<canvas>` is mounted) and auto-`fire`s.
+
 NB: we use a `canvasRef` [callback ref](https://reactjs.org/docs/refs-and-the-dom.html#callback-refs) here to get control over when the element is mounted/unmounted and create/destroy the confetti instance accordingly.
 
 [▶️ Codesandbox](https://codesandbox.io/s/gallant-elbakyan-vnr7bl?file=/src/Confetti.jsx)
