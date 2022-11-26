@@ -2,4 +2,4 @@
 
 The story of a vertex going from model to screen
 
-WIP
+https://github.com/abernier/vertex-journey
