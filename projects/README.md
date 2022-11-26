@@ -6,7 +6,8 @@
   - https://stackoverflow.com/questions/40032592/typescript-workaround-for-rest-props-in-react/74562184#74562184
 
 - [vscode.school](vscode-school.md)
-
+- THREE "spaces"
+- vertex-journey
 - WIP thingy -- procedural 3d anim
   - https://github.com/mrdoob/three.js/pull/24988
   - tpl-{[three](https://github.com/abernier/tpl-three),[react](https://github.com/abernier/tpl-react),[react-three](https://github.com/abernier/tpl-react-three)} -- template repos (Github Pages + Codespaces enabled)
