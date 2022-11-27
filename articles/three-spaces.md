@@ -71,8 +71,6 @@ so, if we have the coordinates of a vector $V$ expressed in base $R1$, we can ge
 
 $$V_{R2}=(P_{R1\rightarrow R2})^{-1} . V_{R1}$$
 
-$P^{-1}$ being the [inverse](https://en.wikipedia.org/wiki/Invertible_matrix) matrix operation.
-
 ```mermaid
 graph TD;
   R1 -- P^-1 --> R2;
