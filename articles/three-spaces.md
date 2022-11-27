@@ -117,8 +117,8 @@ It helps going from world <-> local space more easily (rather than recomputing t
 
 ```mermaid
 graph TD;
-  scene -- "vec.applyMatrix4(child.matrixWorld^-1)" --> object;
-  object -- "vec.applyMatrix4(child.matrixWorld)" --> scene;
+  scene -- "vec.applyMatrix4(object.matrixWorld^-1)" --> object;
+  object -- "vec.applyMatrix4(object.matrixWorld)" --> scene;
 ```
 
 NB: `object` could be at any level in the hierarchy
