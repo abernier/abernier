@@ -13,7 +13,7 @@ It allows us to locate any "point" in this space, by its 3 coordinates component
 
 ## World space
 
-A default "world" space will always exist in a [`Scene`](https://threejs.org/docs/index.html?q=scene#api/en/scenes/Scene):
+A default "world" space will always exist, the [`Scene`](https://threejs.org/docs/index.html?q=scene#api/en/scenes/Scene):
 [![image](https://docs.google.com/drawings/d/e/2PACX-1vRG2Sxu2kkV8wW3c3spdxQ3GzsZfhmubzisEEEQzOjyuh0m0WqO97X5K2WI9UQXc7Qd08prGGxXnQxg/pub?w=1440&h=1080)](https://docs.google.com/drawings/d/1S81NPv6S1NSpr2A_qBdVaZaKk4l4LqN3I_6jQa0tJ_E/edit)
 ```js
 const scene = new THREE.Scene()
