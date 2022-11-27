@@ -85,6 +85,16 @@ cos(\alpha) & sin(\alpha) & 0\\
 0 & 0 & 1
 \end{pmatrix}$$
 
+```mermaid
+graph TD;
+  R1 -- P^-1 --> R2;
+  R2 -- P --> R1;
+```
+
+Ie, to express a vector:
+- from $R1$ to $R2$, we multiply it by $P^{-1}$
+- from $R2$ to $R1$, we multiply it by $P$
+
 ### A. Direct child/parent "spaces"
 
 To know the coordinates of `vec` in the other "direct" space:
