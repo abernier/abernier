@@ -67,7 +67,7 @@ or speaking with $V$ and $R1$, $R2$:
 
 $$V_{R1}=P_{R1\rightarrow R2} . V_{R2}$$
 
-so, if we have the coordinates of a vector $V$ expressed in base $R1$, we can get its coordinates expressed in base $R2$ by multiplying this vector by the matrix $P_{R1\rightarrow R2}$:
+so, if we have the coordinates of a vector $V$ expressed in base $R1$, we can get its coordinates expressed in base $R2$ by multiplying this vector by the matrix $(P_{R1\rightarrow R2})^{-1}$, $P_{R1\rightarrow R2}$ being the transformation matrix from $R1$ to $R2$
 
 $$V_{R2}=(P_{R1\rightarrow R2})^{-1} . V_{R1}$$
 
