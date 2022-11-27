@@ -69,6 +69,8 @@ $$V_{R1}=V_{R2} . P_{R_2\rightarrow R_1}$$
 
 with: $P_{R_2\rightarrow R_1} = P^{-1}_{R_1\rightarrow R_2}$
 
+$P^{-1}$ being the [inverse](https://en.wikipedia.org/wiki/Invertible_matrix) matrix operation.
+
 ### A. Direct child/parent "spaces"
 
 To know the coordinates of `vec` in the other "direct" space:
