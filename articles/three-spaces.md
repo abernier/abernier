@@ -59,17 +59,31 @@ We represent this point by a `vec`.
 
 ### Math
 
-[Mathematically](https://fr.wikipedia.org/wiki/Changement_de_base_(alg%C3%A8bre_lin%C3%A9aire)), if we have the coordinates of a vector $V$ expressed in base $R_1$, we can get its coordinates expressed in base $R_2$ by multiplying this vector by the matrix $P_{R_1\rightarrow R_2}$:
+[Mathematically](https://fr.wikipedia.org/wiki/Changement_de_base_(alg%C3%A8bre_lin%C3%A9aire)):
 
-$$V_{R_2}=V_{R_1} . P_{R_1\rightarrow R_2}$$
+$$V_{R1}=P_{R1\rightarrow R2} . V_{R2}$$
 
-To go the other way (from $R_2$ to $R_1$):
+so, if we have the coordinates of a vector $V$ expressed in base $R1$, we can get its coordinates expressed in base $R2$ by multiplying this vector by the matrix $P_{R1\rightarrow R2}$:
 
-$$V_{R1}=V_{R2} . P_{R_2\rightarrow R_1}$$
-
-with: $P_{R_2\rightarrow R_1} = P^{-1}_{R_1\rightarrow R_2}$
+$$V_{R2}=(P_{R1\rightarrow R2})^{-1} . V_{R1}$$
 
 $P^{-1}$ being the [inverse](https://en.wikipedia.org/wiki/Invertible_matrix) matrix operation.
+
+#### Example
+
+For example, if pass from $R1$ to $R2$ by a rotation on the x axis:
+
+$$P_{R1\rightarrow R2} = \begin{pmatrix}
+cos(\alpha) & -sin(\alpha) & 0\\
+sin(\alpha) & cos(\alpha) & 0\\
+0 & 0 & 1
+\end{pmatrix}$$
+
+$$(P_{R1\rightarrow R2})^{-1} = \begin{pmatrix}
+cos(\alpha) & sin(\alpha) & 0\\
+-sin(\alpha) & cos(\alpha) & 0\\
+0 & 0 & 1
+\end{pmatrix}$$
 
 ### A. Direct child/parent "spaces"
 
