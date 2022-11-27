@@ -61,6 +61,10 @@ We represent this point by a `vec`.
 
 [Mathematically](https://fr.wikipedia.org/wiki/Changement_de_base_(alg%C3%A8bre_lin%C3%A9aire)):
 
+$$X=P_{B\rightarrow B'} . X'$$
+
+or speaking with $V$ and $R1$, $R2$:
+
 $$V_{R1}=P_{R1\rightarrow R2} . V_{R2}$$
 
 so, if we have the coordinates of a vector $V$ expressed in base $R1$, we can get its coordinates expressed in base $R2$ by multiplying this vector by the matrix $P_{R1\rightarrow R2}$:
