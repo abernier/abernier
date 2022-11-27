@@ -73,6 +73,16 @@ $$V_{R2}=(P_{R1\rightarrow R2})^{-1} . V_{R1}$$
 
 $P^{-1}$ being the [inverse](https://en.wikipedia.org/wiki/Invertible_matrix) matrix operation.
 
+```mermaid
+graph TD;
+  R1 -- P^-1 --> R2;
+  R2 -- P --> R1;
+```
+
+Ie, to express a vector:
+- from $R1$ to $R2$, we multiply it by $P^{-1}$
+- from $R2$ to $R1$, we multiply it by $P$
+
 #### Example
 
 For example, if pass from $R1$ to $R2$ by a rotation on the x axis:
@@ -88,16 +98,6 @@ cos(\alpha) & sin(\alpha) & 0\\
 -sin(\alpha) & cos(\alpha) & 0\\
 0 & 0 & 1
 \end{pmatrix}$$
-
-```mermaid
-graph TD;
-  R1 -- P^-1 --> R2;
-  R2 -- P --> R1;
-```
-
-Ie, to express a vector:
-- from $R1$ to $R2$, we multiply it by $P^{-1}$
-- from $R2$ to $R1$, we multiply it by $P$
 
 ### A. Direct child/parent "spaces"
 
