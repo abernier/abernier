@@ -53,7 +53,7 @@ We can `position`, `rotate`, `scale` a such "space". An [`Object3D.matrix`](http
 
 ## Change of basis
 
-Sometimes, we know the coordinates of a point in a given "space", but we want to express them in another "space"... That is what we call a [change of basis](https://en.wikipedia.org/wiki/Change_of_basis).
+Sometimes, we know the coordinates of a point in a given "space", but we want to express them in another "space"... That is what we call a [change of basis](change-of-basis.md).
 
 We represent this point by a `vec`.
 
