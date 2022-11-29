@@ -4,7 +4,7 @@
 
 $$X=P_{B\rightarrow B'} . X'$$
 
-or speaking with $V$ and $R1$, $R2$:
+or speaking with a vector $V$ and 2 bases $R1$, $R2$:
 
 $$V_{R1}=P_{R1\rightarrow R2} . V_{R2}$$
 
