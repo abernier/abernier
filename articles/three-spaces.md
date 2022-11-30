@@ -57,7 +57,7 @@ Learn more about Three [matrices](https://threejs.org/docs/#manual/en/introducti
 
 Sometimes, we know the coordinates of a point in a given "space", but we want to express them in another "space"... That is what we call a [change of basis](change-of-basis.md).
 
-We represent this point by a `vec`.
+We represent this point by a `vec`tor.
 
 ### A. Direct child/parent "spaces"
 
