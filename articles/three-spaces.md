@@ -51,6 +51,8 @@ This shapes a tree/hierarchy of spaces.
 
 We can `position`, `rotate`, `scale` a such "space". An [`Object3D.matrix`](https://threejs.org/docs/index.html?q=matrix4#api/en/core/Object3D.matrix) property exists that holds all those transforms applied.
 
+Learn more about Three [matrices](https://threejs.org/docs/#manual/en/introduction/Matrix-transformations).
+
 ## Change of basis
 
 Sometimes, we know the coordinates of a point in a given "space", but we want to express them in another "space"... That is what we call a [change of basis](change-of-basis.md).
