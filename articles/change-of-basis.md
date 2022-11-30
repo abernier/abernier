@@ -1,3 +1,7 @@
+---
+tags: 3d, maths, three
+---
+
 # Change of basis
 
 [Mathematically](https://fr.wikipedia.org/wiki/Changement_de_base_(alg%C3%A8bre_lin%C3%A9aire)):
