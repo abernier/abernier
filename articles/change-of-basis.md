@@ -35,3 +35,7 @@ graph TD;
 ie, to express a vector:
 - from $R1$ to $R2$, we multiply it by $P^{-1}$
 - from $R2$ to $R1$, we multiply it by $P$
+
+## Colophon
+
+- https://youtu.be/HgQzOmnBGCo
