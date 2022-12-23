@@ -1,5 +1,13 @@
 # Projects
 
+## Future
+
+Projects I'd like to do one day:
+- wormwhole effect: https://discourse.threejs.org/t/wormhole-renderer/44949
+- boids 3d: https://youtu.be/mhjuuHl6qHM
+
+## Current
+
 - vanilla2react article
   - https://www.linkedin.com/posts/antoine-bernier-bb292916_antoine-bernier-abernier-on-twitter-activity-7001603813790863360-MlJf?utm_source=share&utm_medium=member_ios
   - https://github.com/catdad/canvas-confetti/issues/138#issuecomment-1326696100
