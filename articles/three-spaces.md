@@ -98,7 +98,7 @@ sequenceDiagram
   child->>scene:vec.applyMatrix4(child.matrixWorld);
 ```
 
-NB: 2 other sugar methods `Object3D.worldToLocal` and `Object3D.localToWorld` exist to jump from/to an object local/world space.
+NB: 2 other sugar methods [`Object3D.worldToLocal`](https://threejs.org/docs/#api/en/core/Object3D.worldToLocal) and [`Object3D.localToWorld`](https://threejs.org/docs/#api/en/core/Object3D.localToWorld) exist to jump from/to an object local/world space.
 
 ```mermaid
 sequenceDiagram
@@ -106,7 +106,9 @@ sequenceDiagram
   object->>scene:object.localToWorld(vec);
 ```
 
-NB: It is equivalent to apply object's `.matrixWorld`/`.matrixWorld^-1`
+It is equivalent to apply object's `.matrixWorld`/`.matrixWorld^-1`
+
+NB: There also exist [`Object3d.getWorldPosition`](https://threejs.org/docs/#api/en/core/Object3D.getWorldPosition) which simply returns the origin (0,0,0) of the object in world coordinates. 
 
 ## Camera - `Object3D.modelViewMatrix` shortcut
 
