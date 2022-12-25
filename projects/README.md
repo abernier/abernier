@@ -6,6 +6,7 @@ Projects I'd like to do one day:
 - wormwhole effect: https://discourse.threejs.org/t/wormhole-renderer/44949 possibly linked to https://github.com/abernier/r3f-sticky
 - boids 3d (aka. flocking): https://youtu.be/mhjuuHl6qHM
   - quadtree optim: https://youtu.be/OJxEcs0w_kE
+  - 3d unity example: https://youtu.be/bqtqltqcQhw
 
 ## Current
 
