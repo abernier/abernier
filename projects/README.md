@@ -7,6 +7,7 @@ Projects I'd like to do one day:
 - boids 3d (aka. flocking): https://youtu.be/mhjuuHl6qHM
   - quadtree optim: https://youtu.be/OJxEcs0w_kE
   - 3d unity example: https://youtu.be/bqtqltqcQhw
+- weird depth perception illusion trick like in Superliminal: https://store.steampowered.com/app/1049410/Superliminal/
 
 ## Current
 
