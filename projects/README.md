@@ -17,7 +17,7 @@ Projects I'd like to do one day:
   - https://stackoverflow.com/questions/40032592/typescript-workaround-for-rest-props-in-react/74562184#74562184
 
 - [vscode.school](vscode-school.md)
-- THREE "spaces"
+- [x] THREE "spaces"
 - vertex-journey
 - WIP thingy -- procedural 3d anim
   - https://github.com/mrdoob/three.js/pull/24988
@@ -29,7 +29,7 @@ Projects I'd like to do one day:
   - https://github.com/abernier/vertex-journey
 - r3f-sticky -- offscreen pin
   - https://discourse.threejs.org/t/bounding-sphere-projected-height-on-screen/43225
-- [Kira](https://abernier.github.io/three.js/examples/webgl_esher.html)
+- [x] [Kira](https://abernier.github.io/three.js/examples/webgl_esher.html)
   - https://twitter.com/abernier_/status/1570685457104797705
   - https://threejs.org/examples/#webgl_animation_skinning_ik
   - https://twitter.com/abernier_/status/1575488493379207178
