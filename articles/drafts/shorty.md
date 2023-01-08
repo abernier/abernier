@@ -7,3 +7,12 @@ I wanted something:
 2. **cheap** -- I didn't want to spend more than a few bucks /month for this
 3. with a **public database** of shortened-links -- this is particularly important because we know how online services are fragile, and doomed to go down. So at least, even when my service will shutdown, the database will remain publicly accessible.
 
+## Domain
+
+I chose a domain: `abernier.link`
+
+- `abernier` being my nickname for years
+- and the `.link` tld appearing quite appropriate for this use
+
+
+
