@@ -20,7 +20,7 @@ I purchased it on my historic registrar: gandi.net
 
 I created a public Github repo to host the source code: [`abernier/shorty`](https://github.com/abernier/shorty)
 
-I opted for a plain old JS Express server: I want it definitely boring and simple here.
+I opted for a _plain old_ Express `server.js`: proactively boring and simple here.
 
 ## Database
 
