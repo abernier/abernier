@@ -24,5 +24,6 @@ I opted for a _plain old_ Express `server.js`: proactively boring and simple her
 
 ## Database
 
+The simplest form I found: a CSV file
 
-
+As a bonus, Github nicely displays it as a readable table:
