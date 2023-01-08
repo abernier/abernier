@@ -14,5 +14,5 @@ I chose a domain: `abernier.link`
 - `abernier` being my nickname for years
 - and the `.link` tld appearing quite appropriate for this use
 
-
+I purchased it on my historic registrar: gandi.net
 
