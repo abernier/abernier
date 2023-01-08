@@ -8,11 +8,11 @@ You know, those user-friendly [youtu.be](http://youtu.be) links when you share a
 
 I wanted something:
 1. **simple**<br>
-   after all it's all about a 3xx server response
+   After all it's all about a 3xx server response
 2. **cheap**<br>
    I didn't want to spend more than a few bucks /month for this
 3. with a **public database** of shortened-links<br>
-   this is particularly important because we know how online services are fragile, and doomed to go down at some time.
+   This is particularly important because we know how online services are fragile, and doomed to go down at some time.
 
 ## Domain
 
