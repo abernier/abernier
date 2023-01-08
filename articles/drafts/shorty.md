@@ -26,4 +26,4 @@ I opted for a _plain old_ Express `server.js`: proactively boring and simple her
 
 The simplest form I found: a CSV file
 
-As a bonus, Github nicely displays it as a readable table:
+As a bonus, Github nicely displays it as a readable table: see by yourself the [`urls.csv`](https://github.com/abernier/shorty/blob/main/urls.csv) file
