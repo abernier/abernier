@@ -16,3 +16,7 @@ I chose a domain: `abernier.link`
 
 I purchased it on my historic registrar: gandi.net
 
+## Code
+
+I created a public Github repo to host the source code: [`abernier/shorty`](https://github.com/abernier/shorty)
+
