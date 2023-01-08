@@ -27,7 +27,44 @@ I purchased it on my historic registrar: [gandi.net](https://gandi.net)
 
 I created a public Github repo to host the source code: [`abernier/shorty`](https://github.com/abernier/shorty)
 
-I opted for a _plain old_ Express [`server.js`](https://github.com/abernier/shorty/blob/main/server.js): proactively boring and simple here.
+I opted for a _plain old_ Express [`server.js`](https://github.com/abernier/shorty/blob/main/server.js), proactively boring and simple here:
+
+```js
+import express from "express";
+import csv from "csvtojson";
+
+const app = express();
+
+//
+// DB (from CSV)
+//
+
+const jsonArray = await csv().fromFile("./urls.csv");
+const db = new Map(jsonArray.map(({ short, original }) => [short, original]));
+
+//
+// all-route
+//
+
+app.get("*", async (req, res, next) => {
+  const short = req.url;
+
+  const exist = db.has(short);
+  if (!exist) return next(); // Not found
+
+  // Redirection
+  const original = db.get(short);
+  res.redirect(original);
+});
+
+// 404
+app.use((req, res, next) => {
+  res.status(404).send('Not found');
+});
+
+const port = process.env.PORT || 3000;
+app.listen(port, () => console.log(`Server is running on port ${port}`));
+```
 
 ## Database
 
@@ -41,4 +78,23 @@ As a bonus, Github:
 
 ## Deployment
 
-I needed
+1. A [`Dockerfile`](https://github.com/abernier/shorty/blob/main/Dockerfile) describes recipes to build a Docker image of the server.
+   ```Dockerfile
+   FROM node:18-alpine
+   
+   COPY package.json package-lock.json ./
+   RUN npm ci
+   COPY . ./
+   
+   CMD ["node", "server.js"]
+   ```
+2. A Google [Cloud Build](https://cloud.google.com/build) `trigger` re-builds and re-deploys the Docker image, when `main` branch is updated
+   <img width="1468" alt="image" src="https://user-images.githubusercontent.com/76580/211224628-14f44287-2109-4144-a84e-3a8895661adc.png">
+3. A Google [Cloud Run](https://cloud.google.com/run) `service` runs this Docker image
+   <img width="1468" alt="image" src="https://user-images.githubusercontent.com/76580/211224566-6a213929-840f-44fd-ad9d-91f3ffb42142.png">
+4. a Gandi Web-redirection forwards HTTP requests to the Cloud Run instance
+   <img width="1468" alt="image" src="https://user-images.githubusercontent.com/76580/211224921-1d0e25cc-0295-4a73-9ac7-7bed4c49a748.png">
+
+
+
+
