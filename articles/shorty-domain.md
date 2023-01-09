@@ -107,4 +107,4 @@ As a bonus, Github:
 
 ## Result
 
-This article is available at: [abernier.link/shorty](http://abernier.link/shorty-article)
+This article is available at: [abernier.link/shorty-domain](http://abernier.link/shorty-domain)
