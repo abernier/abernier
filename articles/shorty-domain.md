@@ -1,8 +1,11 @@
+# Shorty domain
+
+I always wanted my own short-domain...
+
 ![image](https://user-images.githubusercontent.com/76580/211225629-a5a56422-cfae-47b2-9742-baab67ef6beb.png)[^1]
 
 [^1]: Credits: https://www.flickr.com/photos/chmurka/2524849923
 
-I always wanted my own short-domain...
 
 You know, those user-friendly [youtu.be](http://youtu.be) links when you share a video, that redirect you to the full URL:
 
@@ -102,6 +105,6 @@ As a bonus, Github:
 4. a Gandi Web-redirection forwards HTTP requests to the Cloud Run instance
    <img width="1468" alt="image" src="https://user-images.githubusercontent.com/76580/211224921-1d0e25cc-0295-4a73-9ac7-7bed4c49a748.png">
 
+## Result
 
-
-
+This article is available at: [abernier.link/shorty](http://abernier.link/shorty-article)
