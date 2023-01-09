@@ -98,7 +98,7 @@ app.listen(port, () => console.log(`Server is running on port ${port}`));
    
    CMD ["node", "server.js"]
    ```
-2. A Google [Cloud Build](https://cloud.google.com/build) `trigger` re-builds and re-deploys the Docker image, when `main` branch is updated
+2. A Google [Cloud Build](https://cloud.google.com/build) `trigger` re-builds and re-deploys the Docker image, each time the `main` branch is updated, so also when the CSV DB file is updated too!
    <img width="1468" alt="image" src="https://user-images.githubusercontent.com/76580/211224628-14f44287-2109-4144-a84e-3a8895661adc.png">
 3. A Google [Cloud Run](https://cloud.google.com/run) `service` runs this Docker image
    <img width="1468" alt="image" src="https://user-images.githubusercontent.com/76580/211224566-6a213929-840f-44fd-ad9d-91f3ffb42142.png">
