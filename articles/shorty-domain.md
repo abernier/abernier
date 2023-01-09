@@ -33,6 +33,16 @@ I chose a domain: `abernier.link`
 
 I purchased it on my historic registrar: [gandi.net](https://gandi.net)
 
+## Database
+
+The simplest form I found: a [`urls.CSV`](https://github.com/abernier/shorty/blob/main/urls.csv) file.
+
+As a bonus, Github:
+- easily allows us to directly edit the file online
+- nicely displays the CSV file as a readable table
+
+<img width="733" alt="image" src="https://user-images.githubusercontent.com/76580/211223888-f8346658-0fc8-4f30-b0f3-c1618985c992.png">
+
 ## Code
 
 I created a public Github repo to host the source code: [`abernier/shorty`](https://github.com/abernier/shorty)
@@ -75,16 +85,6 @@ app.use((req, res, next) => {
 const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`Server is running on port ${port}`));
 ```
-
-## Database
-
-The simplest form I found: a [`urls.CSV`](https://github.com/abernier/shorty/blob/main/urls.csv) file
-
-As a bonus, Github:
-- easily allows us to directly edit the file online
-- nicely displays the CSV file as a readable table
-
-<img width="733" alt="image" src="https://user-images.githubusercontent.com/76580/211223888-f8346658-0fc8-4f30-b0f3-c1618985c992.png">
 
 ## Deployment
 
