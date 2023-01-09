@@ -11,7 +11,7 @@ You know, those user-friendly [youtu.be](http://youtu.be) links when you share a
 
 ```mermaid
 flowchart LR
-    short(youtu.be/KgJUNYS7ZnA) --> original(https://www.youtube.com/watch?v=KgJUNYS7ZnA)
+    short(youtu.be/KgJUNYS7ZnA) --redirects to--> original(https://www.youtube.com/watch?v=KgJUNYS7ZnA)
 ```
 
 ## Principles
