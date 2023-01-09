@@ -1,6 +1,6 @@
 # Shorty domain
 
-I always wanted my own short-domain...
+I've always wanted my own short-domain...
 
 ![image](https://user-images.githubusercontent.com/76580/211225629-a5a56422-cfae-47b2-9742-baab67ef6beb.png)[^1]
 
