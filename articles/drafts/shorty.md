@@ -1,5 +1,6 @@
-![image](https://user-images.githubusercontent.com/76580/211225629-a5a56422-cfae-47b2-9742-baab67ef6beb.png)
+![image](https://user-images.githubusercontent.com/76580/211225629-a5a56422-cfae-47b2-9742-baab67ef6beb.png)[^1]
 
+[^1]: Credits: https://www.flickr.com/photos/chmurka/2524849923
 
 I always wanted my own short-domain...
 
