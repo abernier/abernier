@@ -103,6 +103,8 @@ app.listen(port, () => console.log(`Server is running on port ${port}`));
 3. A Google [Cloud Run](https://cloud.google.com/run) `service` runs this Docker image
    <img width="1468" alt="image" src="https://user-images.githubusercontent.com/76580/211224566-6a213929-840f-44fd-ad9d-91f3ffb42142.png">
 4. a Google [Cloud load balancer](https://cloud.google.com/load-balancing/docs/https/setup-global-ext-https-serverless)
+   <img width="1424" alt="image" src="https://user-images.githubusercontent.com/76580/212381109-a8ea8644-795b-4deb-adab-87b06c4802fc.png">
+
 
 ## Result
 
