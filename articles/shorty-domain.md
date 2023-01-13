@@ -102,8 +102,7 @@ app.listen(port, () => console.log(`Server is running on port ${port}`));
    <img width="1468" alt="image" src="https://user-images.githubusercontent.com/76580/211224628-14f44287-2109-4144-a84e-3a8895661adc.png">
 3. A Google [Cloud Run](https://cloud.google.com/run) `service` runs this Docker image
    <img width="1468" alt="image" src="https://user-images.githubusercontent.com/76580/211224566-6a213929-840f-44fd-ad9d-91f3ffb42142.png">
-4. a Gandi Web-redirection forwards HTTP requests to the Cloud Run instance
-   <img width="1468" alt="image" src="https://user-images.githubusercontent.com/76580/211224921-1d0e25cc-0295-4a73-9ac7-7bed4c49a748.png">
+4. a Google [Cloud load balancer](https://cloud.google.com/load-balancing/docs/https/setup-global-ext-https-serverless)
 
 ## Result
 
