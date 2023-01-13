@@ -29,7 +29,7 @@ I wanted something:
 I chose a domain: `abernier.link`
 
 - `abernier` being my nickname for years
-- and the [`.link` tld](https://icannwiki.org/.link) appearing quite appropriate for this use
+- and the [`.link` tld](https://icannwiki.org/.link) appearing quite appropriate for this use (and available 😅)
 
 I purchased it on my historic registrar: [gandi.net](https://gandi.net)
 
