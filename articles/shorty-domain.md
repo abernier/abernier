@@ -35,7 +35,7 @@ I purchased it on my historic registrar: [gandi.net](https://gandi.net)
 
 ## Database
 
-The simplest form I found: a [`urls.CSV`](https://github.com/abernier/shorty/blob/main/urls.csv) file.
+The simplest form of a database I found, being a [`CSV`](https://github.com/abernier/shorty/blob/main/urls.csv) file.
 
 As a bonus, Github:
 - easily allows us to directly edit the file online
