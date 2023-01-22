@@ -1,2 +1,2 @@
 - [Spherical word-cloud](https://codesandbox.io/s/yup2o?file=/src/App.js:289-472) -- `#Text`
-- [Split views (scissors)](https://codesandbox.io/embed/view-skissor-forked-r9w2ob?file=/src/App.js&codemirror=1)
+- [Split views](https://codesandbox.io/embed/view-skissor-forked-r9w2ob?file=/src/App.js&codemirror=1) -- #scissors
