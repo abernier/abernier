@@ -176,12 +176,14 @@ with:
 ## Summary
 
 ```mermaid
+---
+title: THREE spaces jumps
+---
+
 sequenceDiagram  
   participant ndc
   participant camera
   participant scene
-
-  title: THREE spaces jumps
 
   camera->>ndc:vec.applyMatrix4(camera.projectionMatrix)
 
