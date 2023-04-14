@@ -1,4 +1,4 @@
-[Articles](articles) | [Projects](projects)
+| [Articles](articles) | [Projects](projects) |
 
 <!--
 <a title="" href="https://stackblitz.com/github/abernier/PROJECTNAME">
