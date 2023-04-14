@@ -1,18 +1,16 @@
-
-Hello
-===
+# Hi
 
 I'm a JavaScript UX-minded webdeveloper, with interest in 3d.
 
-[Articles](articles) | [Projects](projects)
-
-## CSBs
+| [Articles](articles) | [Projects](projects) |
 
 <!--
 <a title="" href="https://stackblitz.com/github/abernier/PROJECTNAME">
   <img height="80" src="https://codesandbox.io/api/v1/sandboxes/XXXXXX/screenshot.png" />
 </a>
 -->
+
+---
 
 <a title="Kira" href="https://abernier.name/three.js/examples/webgl_esher.html">
   <img height="80" src="https://user-images.githubusercontent.com/76580/232128844-63a61e34-88d5-43cb-8378-f302e02af498.png" />
@@ -41,8 +39,6 @@ I'm a JavaScript UX-minded webdeveloper, with interest in 3d.
 </a>
 
 </details>
-
-## PRs
 
 https://github.com/mrdoob/three.js/pull/23449,
 https://github.com/mrdoob/three.js/pull/24652,
