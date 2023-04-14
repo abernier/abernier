@@ -45,9 +45,11 @@ I'm a JavaScript UX-minded webdeveloper, with interest in 3d.
 ## PRs
 
 https://github.com/mrdoob/three.js/pull/23449,
-https://github.com/mrdoob/three.js/pull/24652
+https://github.com/mrdoob/three.js/pull/24652,
 https://github.com/mrdoob/three.js/pull/25824
 
+https://github.com/pmndrs/drei/pull/1389,
+https://github.com/pmndrs/drei/pull/1250,
 https://github.com/pmndrs/drei/pull/1370,
 https://github.com/pmndrs/drei/pull/1237
 
