@@ -11,7 +11,7 @@ I'm a JavaScript UX-minded webdeveloper, with interest in 3d.
 <a title="CCDIKSolver example" href="https://threejs.org/examples/#webgl_animation_skinning_ik">
   <img height="80" src="https://threejs.org/examples/screenshots/webgl_animation_skinning_ik.jpg" />
 </a>
-<a title="CameraControls drei component" href="https://codesandbox.io/s/sew669">
+<a title="CameraControls drei component demo" href="https://codesandbox.io/s/sew669">
   <img height="80" src="https://codesandbox.io/api/v1/sandboxes/sew669/screenshot.png" />
 </a>
 <a title="useVideoTexture with mediaStream drei hook" href="https://codesandbox.io/s/2cemck">
