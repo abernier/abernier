@@ -10,8 +10,6 @@ I'm a JavaScript UX-minded webdeveloper, with interest in 3d.
 </a>
 -->
 
----
-
 <a title="Kira" href="https://abernier.name/three.js/examples/webgl_esher.html">
   <img height="80" src="https://user-images.githubusercontent.com/76580/232128844-63a61e34-88d5-43cb-8378-f302e02af498.png" />
 </a>
