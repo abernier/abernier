@@ -31,7 +31,7 @@ I'm a JavaScript UX-minded webdeveloper, with interest in 3d.
 </a>
 
 <details>
-<summary>_</summary>
+<summary></summary>
 
 <a title="r3f cloth using cannon-es" href="https://codesandbox.io/s/040ieb">
   <img height="80" src="https://codesandbox.io/api/v1/sandboxes/040ieb/screenshot.png" />
