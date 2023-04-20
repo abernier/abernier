@@ -28,6 +28,10 @@
 <details>
 <summary></summary>
 
+<a title="r3f Facemesh" href="https://codesandbox.io/s/4lzxrr">
+  <img height="80" src="https://user-images.githubusercontent.com/76580/233414240-81a6e4bc-429b-47cf-b483-3b4b70bad50b.png" />
+</a>
+  
 <a title="r3f cloth using cannon-es" href="https://codesandbox.io/s/040ieb">
   <img height="80" src="https://user-images.githubusercontent.com/76580/232129651-ede7f8a5-b245-44e2-9d6b-20ea5301786e.png" />
 </a>
