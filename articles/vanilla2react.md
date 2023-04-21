@@ -237,6 +237,8 @@ export default Button;
 
 [Codesandbox](https://codesandbox.io/s/silly-bessie-mky7lo?file=/src/Button.jsx:0-234)
 
+NB: `useImperativeHandle` could also represents a suitable solution when needing to [forward multiple refs](https://stackoverflow.com/a/61388453/133327).
+
 ### Step 4 - Typing
 
 Thanks to [`@types/canvas-confetti`](https://www.npmjs.com/package/@types/canvas-confetti) we'll add typing to our implementation.
