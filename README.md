@@ -50,3 +50,5 @@ https://github.com/pmndrs/drei/pull/1237
 https://github.com/yomotsu/camera-controls/pull/370,
 https://github.com/yomotsu/camera-controls/pull/365,
 https://github.com/yomotsu/camera-controls/pull/338
+
+`Object3D`, `Box3`/`OBB`, `BufferGeometry`
