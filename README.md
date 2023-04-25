@@ -42,6 +42,7 @@ https://github.com/mrdoob/three.js/pull/25824,
 https://github.com/mrdoob/three.js/pull/24652,
 https://github.com/mrdoob/three.js/pull/23449
 <br>
+https://github.com/pmndrs/drei/pull/1420
 https://github.com/pmndrs/drei/pull/1389,
 https://github.com/pmndrs/drei/pull/1370,
 https://github.com/pmndrs/drei/pull/1250,
