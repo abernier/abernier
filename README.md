@@ -24,6 +24,9 @@
 <a title="r3f curtains using cannon-es" href="https://codesandbox.io/s/7bzgpg">
   <img height="80" src="https://codesandbox.io/api/v1/sandboxes/7bzgpg/screenshot.png" />
 </a>
+<a title="r3f resize dyno" href="https://codesandbox.io/s/6yg0i3">
+  <img height="80" src="https://user-images.githubusercontent.com/76580/234433257-49019416-839d-415d-8669-5be16b380e12.png" />
+</a>
 
 <details>
 <summary></summary>
