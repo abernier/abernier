@@ -31,6 +31,8 @@
 <details>
 <summary></summary>
 
+https://codesandbox.io/s/mouse-depth-h9qz2r?file=/src/index.js
+
 <a title="r3f Facemesh" href="https://codesandbox.io/s/4lzxrr">
   <img height="80" src="https://user-images.githubusercontent.com/76580/233414240-81a6e4bc-429b-47cf-b483-3b4b70bad50b.png" />
 </a>
