@@ -27,11 +27,17 @@
 <a title="r3f resize dyno" href="https://codesandbox.io/s/6yg0i3">
   <img height="80" src="https://user-images.githubusercontent.com/76580/234433257-49019416-839d-415d-8669-5be16b380e12.png" />
 </a>
+<a title="rt/pp Autofocus" href="https://codesandbox.io/s/dfw6w4">
+  <img height="80" src="https://user-images.githubusercontent.com/76580/235352374-9bfd85cb-27bb-4917-b0ee-5513cea3280b.png" />
+</a>
 
 <details>
 <summary></summary>
 
-https://codesandbox.io/s/mouse-depth-h9qz2r?file=/src/index.js
+
+<a title="DepthPickingPass" href="https://codesandbox.io/s/x130hg">
+  <img height="80" src="https://user-images.githubusercontent.com/76580/235352306-49c0dbca-d54e-438e-85c6-8a9160e09e91.png" />
+</a>
 
 <a title="r3f Facemesh" href="https://codesandbox.io/s/4lzxrr">
   <img height="80" src="https://user-images.githubusercontent.com/76580/233414240-81a6e4bc-429b-47cf-b483-3b4b70bad50b.png" />
