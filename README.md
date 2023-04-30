@@ -60,6 +60,8 @@ https://github.com/pmndrs/drei/pull/1370,
 https://github.com/pmndrs/drei/pull/1250,
 https://github.com/pmndrs/drei/pull/1237
 <br>
+https://github.com/pmndrs/react-postprocessing/pull/192
+<br>
 https://github.com/yomotsu/camera-controls/pull/370,
 https://github.com/yomotsu/camera-controls/pull/365,
 https://github.com/yomotsu/camera-controls/pull/338
