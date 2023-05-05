@@ -54,18 +54,21 @@
 
 </details>
 
-mrdoob/three.js: [`BufferGeometry`](https://github.com/mrdoob/three.js/pull/25824),
+mrdoob/three.js:
+[`BufferGeometry`](https://github.com/mrdoob/three.js/pull/25824),
 [IK example](https://github.com/mrdoob/three.js/pull/24652),
 [`CCDIKSolver`](https://github.com/mrdoob/three.js/pull/23449)
 <br>
-pmndrs/drei: [`<Resize>`](https://github.com/pmndrs/drei/pull/1420),
+pmndrs/drei:
+[`<Resize>`](https://github.com/pmndrs/drei/pull/1420),
 [`<Facemesh>`](https://github.com/pmndrs/drei/pull/1412),
 [`useCubeCamera`](https://github.com/pmndrs/drei/pull/1389),
 [`useVideoTexture` w/ mediaStream](https://github.com/pmndrs/drei/pull/1370),
 [devcontainer](https://github.com/pmndrs/drei/pull/1250),
 [`<CameraControls>`](https://github.com/pmndrs/drei/pull/1237)
 <br>
-pmndrs/react-postprocessing: https://github.com/pmndrs/react-postprocessing/pull/192
+pmndrs/react-postprocessing:
+[`<Autofocus>`](https://github.com/pmndrs/react-postprocessing/pull/192)
 <br>
 yomotsu/camera-controls: https://github.com/yomotsu/camera-controls/pull/370,
 https://github.com/yomotsu/camera-controls/pull/365,
