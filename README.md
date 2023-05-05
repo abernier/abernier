@@ -68,6 +68,7 @@ pmndrs/drei:
 [`<CameraControls>`](https://github.com/pmndrs/drei/pull/1237)
 <br>
 pmndrs/react-postprocessing:
+[semantic-release](https://github.com/pmndrs/react-postprocessing/pull/194)
 [`<Autofocus>`](https://github.com/pmndrs/react-postprocessing/pull/192)
 <br>
 yomotsu/camera-controls:
