@@ -70,8 +70,9 @@ pmndrs/drei:
 pmndrs/react-postprocessing:
 [`<Autofocus>`](https://github.com/pmndrs/react-postprocessing/pull/192)
 <br>
-yomotsu/camera-controls: https://github.com/yomotsu/camera-controls/pull/370,
-https://github.com/yomotsu/camera-controls/pull/365,
-https://github.com/yomotsu/camera-controls/pull/338
+yomotsu/camera-controls:
+[devcontainer](https://github.com/yomotsu/camera-controls/pull/370),
+[semantic-release](https://github.com/yomotsu/camera-controls/pull/365),
+[`.connect()`](https://github.com/yomotsu/camera-controls/pull/338)
 
 [`Object3D`](https://threejs.org/docs/index.html?q=objec#api/en/core/Object3D), [`Box3`](https://threejs.org/docs/index.html?q=box#api/en/math/Box3)/`OBB`, [`BufferGeometry`](https://threejs.org/docs/#api/en/core/BufferGeometry)
