@@ -58,12 +58,12 @@ mrdoob/three.js: [`BufferGeometry`](https://github.com/mrdoob/three.js/pull/2582
 [IK example](https://github.com/mrdoob/three.js/pull/24652),
 [`CCDIKSolver`](https://github.com/mrdoob/three.js/pull/23449)
 <br>
-pmndrs/drei: https://github.com/pmndrs/drei/pull/1420,
-https://github.com/pmndrs/drei/pull/1412,
-https://github.com/pmndrs/drei/pull/1389,
-https://github.com/pmndrs/drei/pull/1370,
-https://github.com/pmndrs/drei/pull/1250,
-https://github.com/pmndrs/drei/pull/1237
+pmndrs/drei: [`<Resize>`](https://github.com/pmndrs/drei/pull/1420),
+[`<Facemesh>`](https://github.com/pmndrs/drei/pull/1412),
+[`useCubeCamera`](https://github.com/pmndrs/drei/pull/1389),
+[`useVideoTexture` media stream](https://github.com/pmndrs/drei/pull/1370),
+[devcontainer](https://github.com/pmndrs/drei/pull/1250),
+[`<CameraControls>`](https://github.com/pmndrs/drei/pull/1237)
 <br>
 pmndrs/react-postprocessing: https://github.com/pmndrs/react-postprocessing/pull/192
 <br>
