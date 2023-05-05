@@ -61,7 +61,7 @@ mrdoob/three.js: [`BufferGeometry`](https://github.com/mrdoob/three.js/pull/2582
 pmndrs/drei: [`<Resize>`](https://github.com/pmndrs/drei/pull/1420),
 [`<Facemesh>`](https://github.com/pmndrs/drei/pull/1412),
 [`useCubeCamera`](https://github.com/pmndrs/drei/pull/1389),
-[`useVideoTexture` media stream](https://github.com/pmndrs/drei/pull/1370),
+[`useVideoTexture` w/ mediaStream](https://github.com/pmndrs/drei/pull/1370),
 [devcontainer](https://github.com/pmndrs/drei/pull/1250),
 [`<CameraControls>`](https://github.com/pmndrs/drei/pull/1237)
 <br>
