@@ -15,7 +15,7 @@
 <a title="Sticky r3f birds" href="https://abernier.github.io/r3f-sticky/">
   <img height="80" src="https://user-images.githubusercontent.com/76580/232123657-2660f1d7-acfc-489e-a6b5-1333e3b4bebe.png" />
 </a>
-<a title="CameraControls drei component demo" href="https://codesandbox.io/s/us6ipl">
+<a title="CameraControls drei component demo" href="https://codesandbox.io/s/sew669">
   <img height="80" src="https://codesandbox.io/api/v1/sandboxes/us6ipl/screenshot.png" />
 </a>
 <a title="useVideoTexture with mediaStream drei hook" href="https://codesandbox.io/s/2cemck">
