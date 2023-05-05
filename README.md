@@ -54,12 +54,12 @@
 
 </details>
 
-mrdoob/three.js:
+[mrdoob/three.js](https://github.com/mrdoob/three.js/pulls?q=is%3Apr+author%3Aabernier+):
 [`BufferGeometry`](https://github.com/mrdoob/three.js/pull/25824),
 [IK example](https://github.com/mrdoob/three.js/pull/24652),
 [`CCDIKSolver`](https://github.com/mrdoob/three.js/pull/23449)
 <br>
-pmndrs/drei:
+[pmndrs/drei](https://github.com/pmndrs/drei/pulls?q=is%3Apr+author%3Aabernier+):
 [`<Resize>`](https://github.com/pmndrs/drei/pull/1420),
 [`<Facemesh>`](https://github.com/pmndrs/drei/pull/1412),
 [`useCubeCamera`](https://github.com/pmndrs/drei/pull/1389),
@@ -67,11 +67,11 @@ pmndrs/drei:
 [devcontainer](https://github.com/pmndrs/drei/pull/1250),
 [`<CameraControls>`](https://github.com/pmndrs/drei/pull/1237)
 <br>
-pmndrs/react-postprocessing:
+[pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing/pulls?q=is%3Apr+author%3Aabernier+):
 [semantic-release](https://github.com/pmndrs/react-postprocessing/pull/194)
 [`<Autofocus>`](https://github.com/pmndrs/react-postprocessing/pull/192)
 <br>
-yomotsu/camera-controls:
+[yomotsu/camera-controls](https://github.com/yomotsu/camera-controls/pulls?q=is%3Apr+author%3Aabernier+):
 [devcontainer](https://github.com/yomotsu/camera-controls/pull/370),
 [semantic-release](https://github.com/yomotsu/camera-controls/pull/365),
 [`.connect()`](https://github.com/yomotsu/camera-controls/pull/338)
