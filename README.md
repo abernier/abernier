@@ -77,3 +77,5 @@
 [`.connect()`](https://github.com/yomotsu/camera-controls/pull/338)
 
 [`Object3D`](https://threejs.org/docs/index.html?q=objec#api/en/core/Object3D), [`Box3`](https://threejs.org/docs/index.html?q=box#api/en/math/Box3)/`OBB`, [`BufferGeometry`](https://threejs.org/docs/#api/en/core/BufferGeometry)
+
+rss/atom: [github](https://github.com/abernier.atom) - [discourse.threejs](https://discourse.threejs.org/u/abernier/activity.rss)
