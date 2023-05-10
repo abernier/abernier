@@ -61,7 +61,7 @@
 <br>
 [pmndrs/drei](https://github.com/pmndrs/drei/pulls?q=is%3Apr+author%3Aabernier+):
 [`<Resize>`](https://github.com/pmndrs/drei/pull/1420),
-[`<Facemesh>`](https://github.com/pmndrs/drei/pull/1412),
+[`<Facemesh>`](https://github.com/pmndrs/drei/pull/1437),
 [`useCubeCamera`](https://github.com/pmndrs/drei/pull/1389),
 [`useVideoTexture` mediaStream](https://github.com/pmndrs/drei/pull/1370),
 [devcontainer](https://github.com/pmndrs/drei/pull/1250),
