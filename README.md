@@ -60,6 +60,7 @@
 [`CCDIKSolver`](https://github.com/mrdoob/three.js/pull/23449)
 <br>
 [pmndrs/drei](https://github.com/pmndrs/drei/pulls?q=is%3Apr+author%3Aabernier+):
+[`<Example>`](https://github.com/pmndrs/drei/pull/1439),
 [`<Resize>`](https://github.com/pmndrs/drei/pull/1420),
 [`<Facemesh>`](https://github.com/pmndrs/drei/pull/1437),
 [`useCubeCamera`](https://github.com/pmndrs/drei/pull/1389),
