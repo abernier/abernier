@@ -60,7 +60,7 @@
 [`CCDIKSolver`](https://github.com/mrdoob/three.js/pull/23449)
 <br>
 [pmndrs/drei](https://github.com/pmndrs/drei/pulls?q=is%3Apr+author%3Aabernier+):
-[`sb7`](https://github.com/pmndrs/react-postprocessing/pull/202), [`<Example>`](https://github.com/pmndrs/drei/pull/1439),
+[`<Example>`](https://github.com/pmndrs/drei/pull/1439),
 [`<Resize>`](https://github.com/pmndrs/drei/pull/1420),
 [`<Facemesh>`](https://github.com/pmndrs/drei/pull/1437),
 [`useCubeCamera`](https://github.com/pmndrs/drei/pull/1389),
@@ -69,7 +69,7 @@
 [`<CameraControls>`](https://github.com/pmndrs/drei/pull/1237)
 <br>
 [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing/pulls?q=is%3Apr+author%3Aabernier+):
-[semantic-release](https://github.com/pmndrs/react-postprocessing/pull/194),
+[`sb7`](https://github.com/pmndrs/react-postprocessing/pull/202), [semantic-release](https://github.com/pmndrs/react-postprocessing/pull/194),
 [`<Autofocus>`](https://github.com/pmndrs/react-postprocessing/pull/192)
 <br>
 [yomotsu/camera-controls](https://github.com/yomotsu/camera-controls/pulls?q=is%3Apr+author%3Aabernier+):
