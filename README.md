@@ -86,7 +86,8 @@ web:
 [`.connect()`](https://github.com/yomotsu/camera-controls/pull/338)
 
 [discourse.threejs.org](https://discourse.threejs.org/u/abernier/activity/topics): [`localToLocal`](https://discourse.threejs.org/t/object3d-localtolocal/51564)
-[discord]()
+<br>
+[discord](https://discordapp.com/users/437918779851145226): 
 
 [`Vector3`](https://threejs.org/docs/#api/en/math/Vector3), [`Matrix4`](https://threejs.org/docs/?q=matrix#api/en/math/Matrix4), [`Object3D`](https://threejs.org/docs/index.html?q=objec#api/en/core/Object3D), [`Box3`](https://threejs.org/docs/index.html?q=box#api/en/math/Box3)/`OBB`, [`BufferGeometry`](https://threejs.org/docs/#api/en/core/BufferGeometry)/[`BufferAttribute`](https://threejs.org/docs/#api/en/core/BufferAttribute), [`WebGLRenderer`](https://threejs.org/docs/?q=webgl#api/en/renderers/WebGLRenderer)
 
