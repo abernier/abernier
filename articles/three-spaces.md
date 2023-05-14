@@ -110,10 +110,10 @@ NB: about `.updateMatrixWorld()`
 > mesh.position.x = 10;
 > 
 > // Now we need to update the world matrix for these changes to take effect
-> mesh.updateMatrixWorld(true);  // The 'true' flag forces the update down the object hierarchy
+> mesh.updateWorldMatrix(true, true);  // The first 'true' updates the ancestors, and the second 'true' updates the descendants
 > ```
 > 
-> In this example, we create a new mesh and add it to the scene. We then change the x position of the mesh. However, since this change won't be reflected in the world matrix automatically, we call `.updateMatrixWorld(true)` to manually update it. The `true` argument means that the update should be applied to all children of the object as well.
+> In this example, `mesh.updateWorldMatrix(true, true)` will update the world matrix of the mesh, its ancestors, and its descendants, ensuring that all transformations are correctly applied.
 
 ### General case (A. and B.)
 
