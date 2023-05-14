@@ -1,3 +1,7 @@
+---
+tags: web, 3d, three, r3f
+---
+
 [Articles](articles):
 [THREE spaces](https://github.com/abernier/abernier/blob/main/articles/three-spaces.md), 
 [vanilla2react](https://github.com/abernier/abernier/blob/main/articles/vanilla2react.md),
