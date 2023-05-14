@@ -83,6 +83,29 @@ graph TD;
 
 NB: `object` could be at any level in the hierarchy
 
+NB: about `.updateMatrixWorld()`
+> In Three.js, every object in the scene graph (which is a hierarchical tree structure of objects) has two main matrices:
+> 
+> - `matrix`: This is the local transformation matrix of the object relative to its parent.
+> - `matrixWorld`: This represents the transformation of the object in world coordinates, i.e., relative to the root of the scene graph. (there is also `matrixWorldInverse`)
+> 
+> When you make changes to the position, rotation, or scale of an object, its local transformation matrix (`matrix`) is updated. However, the world matrix (`matrixWorld`) (as well as `matrixWorldInverse`) is not automatically updated for performance reasons. If you want the changes to be reflected in the world matrix, you need to call `.updateMatrixWorld()`.
+> 
+> Here's an example of how you might use it:
+> 
+> ```js
+> let mesh = new THREE.Mesh(geometry, material);
+> scene.add(mesh);
+> 
+> // Change the position of the mesh
+> mesh.position.x = 10;
+> 
+> // Now we need to update the world matrix for these changes to take effect
+> mesh.updateMatrixWorld(true);  // The 'true' flag forces the update down the object hierarchy
+> ```
+> 
+> In this example, we create a new mesh and add it to the scene. We then change the x position of the mesh. However, since this change won't be reflected in the world matrix automatically, we call `.updateMatrixWorld(true)` to manually update it. The `true` argument means that the update should be applied to all children of the object as well.
+
 ### General case (A. and B.)
 
 ```mermaid
