@@ -1,3 +1,8 @@
+[Articles](articles):
+[THREE spaces](https://github.com/abernier/abernier/blob/main/articles/three-spaces.md), 
+[vanilla2react](https://github.com/abernier/abernier/blob/main/articles/vanilla2react.md),
+[markdown](https://github.com/abernier/abernier/blob/main/articles/markdown.md)
+
 <!--
 <a title="" href="https://stackblitz.com/github/abernier/PROJECTNAME">
   <img height="80" src="https://codesandbox.io/api/v1/sandboxes/XXXXXX/screenshot.png" />
@@ -51,11 +56,6 @@
 </a>
 
 </details>
-
-[Articles](articles):
-[THREE spaces](https://github.com/abernier/abernier/blob/main/articles/three-spaces.md), 
-[vanilla2react](https://github.com/abernier/abernier/blob/main/articles/vanilla2react.md),
-[markdown](https://github.com/abernier/abernier/blob/main/articles/markdown.md)
 
 [mrdoob/three.js](https://github.com/mrdoob/three.js/pulls?q=is%3Apr+author%3Aabernier+):
 [`BufferGeometry`](https://github.com/mrdoob/three.js/pull/25824),
