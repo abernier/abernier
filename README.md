@@ -1,5 +1,6 @@
 ---
-tags: web, 3d, three, r3f
+react: 
+three:
 ---
 
 [Articles](articles):
