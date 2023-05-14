@@ -1,6 +1,6 @@
 ---
-react: 
-three:
+3d: 
+web:
 ---
 
 [Articles](articles):
