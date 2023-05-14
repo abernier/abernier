@@ -1,6 +1,8 @@
 THREE spaces
 ===
 
+Related article: [Change of basis](change-of-basis.md)
+
 ## "Space"
 
 In a 3d environment, a "space" is defined by 3 perpendicular axes and an origin:
