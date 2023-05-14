@@ -1,3 +1,7 @@
+---
+tags: three, maths
+---
+
 THREE spaces
 ===
 
