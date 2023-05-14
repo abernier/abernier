@@ -18,6 +18,8 @@ Misc
 I'm a comment
 -->
 
+<sup><sub>I'm small text</sub></sup>
+
 Here is a list:
 
 - A [relative link](docs/test.md) that points to this repo's file `docs/test.md`
