@@ -93,9 +93,9 @@ NB: about `.updateMatrixWorld()`
 > In Three.js, every object in the scene graph (which is a hierarchical tree structure of objects) has two main matrices:
 > 
 > - `matrix`: This is the local transformation matrix of the object relative to its parent.
-> - `matrixWorld`: This represents the transformation of the object in world coordinates, i.e., relative to the root of the scene graph. (there is also `matrixWorldInverse`)
+> - `matrixWorld`: This represents the transformation of the object in world coordinates, i.e., relative to the root of the scene graph.
 > 
-> When you make changes to the position, rotation, or scale of an object, its local transformation matrix (`matrix`) is updated. However, the world matrix (`matrixWorld`) (as well as `matrixWorldInverse`) is not automatically updated for performance reasons. If you want the changes to be reflected in the world matrix, you need to call `.updateMatrixWorld()`.
+> When you make changes to the position, rotation, or scale of an object, its local transformation matrix (`matrix`) is updated. However, the world matrix (`matrixWorld`) is not automatically updated for performance reasons. If you want the changes to be reflected in the world matrix, you need to call `.updateMatrixWorld()`.
 > 
 > Here's an example of how you might use it:
 > 
