@@ -81,6 +81,8 @@ Articles:
 [semantic-release](https://github.com/yomotsu/camera-controls/pull/365),
 [`.connect()`](https://github.com/yomotsu/camera-controls/pull/338)
 
+[discourse.threejs.org](https://discourse.threejs.org/u/abernier/activity/topics): [`localToLocal`](https://discourse.threejs.org/t/object3d-localtolocal/51564)
+
 [`Object3D`](https://threejs.org/docs/index.html?q=objec#api/en/core/Object3D), [`Box3`](https://threejs.org/docs/index.html?q=box#api/en/math/Box3)/`OBB`, [`BufferGeometry`](https://threejs.org/docs/#api/en/core/BufferGeometry)/[`BufferAttribute`](https://threejs.org/docs/#api/en/core/BufferAttribute)
 
 rss/atom: [github](https://github.com/abernier.atom) - [discourse.threejs](https://discourse.threejs.org/u/abernier/activity.rss)
