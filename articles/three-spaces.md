@@ -89,6 +89,9 @@ graph TD;
 
 NB: `object` could be at any level in the hierarchy
 
+> **Warning** <br>
+> `.matrixWorldInverse` only [exist on cameras](https://threejs.org/docs/#api/en/math/Matrix4) => `matrixWorld^-1` has to be computed for any other object3d.
+
 NB: about `.updateMatrixWorld()`
 > In Three.js, every object in the scene graph (which is a hierarchical tree structure of objects) has two main matrices:
 > 
