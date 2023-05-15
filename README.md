@@ -3,7 +3,7 @@
 web:
 ---
 
-[Articles](articles):
+[articles](articles):
 [THREE spaces](https://github.com/abernier/abernier/blob/main/articles/three-spaces.md), 
 [vanilla2react](https://github.com/abernier/abernier/blob/main/articles/vanilla2react.md),
 [markdown](https://github.com/abernier/abernier/blob/main/articles/markdown.md)
