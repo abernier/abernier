@@ -89,7 +89,7 @@ web:
 <br>
 [discord](https://discordapp.com/users/437918779851145226): 
 
-[`Vector3`](https://threejs.org/docs/#api/en/math/Vector3), [`Matrix4`](https://threejs.org/docs/?q=matrix#api/en/math/Matrix4), [`Object3D`](https://threejs.org/docs/index.html?q=objec#api/en/core/Object3D), [`Box3`](https://threejs.org/docs/index.html?q=box#api/en/math/Box3)/`OBB`, [`BufferGeometry`](https://threejs.org/docs/#api/en/core/BufferGeometry)/[`BufferAttribute`](https://threejs.org/docs/#api/en/core/BufferAttribute), [`WebGLRenderer`](https://threejs.org/docs/?q=webgl#api/en/renderers/WebGLRenderer)
+[`Vector3`](https://threejs.org/docs/#api/en/math/Vector3), [`Matrix4`](https://threejs.org/docs/?q=matrix#api/en/math/Matrix4), [`Object3D`](https://threejs.org/docs/index.html?q=objec#api/en/core/Object3D), [`PerspectiveCamera`](https://threejs.org/docs/?q=perspective#api/en/cameras/PerspectiveCamera), [`Box3`](https://threejs.org/docs/index.html?q=box#api/en/math/Box3)/`OBB`, [`BufferGeometry`](https://threejs.org/docs/#api/en/core/BufferGeometry)/[`BufferAttribute`](https://threejs.org/docs/#api/en/core/BufferAttribute), [`WebGLRenderer`](https://threejs.org/docs/?q=webgl#api/en/renderers/WebGLRenderer)
 
 rss/atom: [github](https://github.com/abernier.atom) - [discourse.threejs](https://discourse.threejs.org/u/abernier/activity.rss)
 
