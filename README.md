@@ -63,6 +63,7 @@ web:
 </details>
 
 [three.js](https://github.com/mrdoob/three.js/pulls?q=is%3Apr+author%3Aabernier+):
+[devcontainer](https://github.com/mrdoob/three.js/pull/26055),
 [`BufferGeometry`](https://github.com/mrdoob/three.js/pull/25824),
 [IK example](https://github.com/mrdoob/three.js/pull/24652),
 [`CCDIKSolver`](https://github.com/mrdoob/three.js/pull/23449)
