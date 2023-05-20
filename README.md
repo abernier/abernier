@@ -6,7 +6,8 @@ web:
 [articles](articles):
 [THREE spaces](https://github.com/abernier/abernier/blob/main/articles/three-spaces.md), 
 [vanilla2react](https://github.com/abernier/abernier/blob/main/articles/vanilla2react.md),
-[markdown](https://github.com/abernier/abernier/blob/main/articles/markdown.md)
+[markdown](https://github.com/abernier/abernier/blob/main/articles/markdown.md),
+<kbd>[new](https://github.com/abernier/abernier/new/main/articles)</kbd>
 
 <!--
 <a title="" href="https://stackblitz.com/github/abernier/PROJECTNAME">
