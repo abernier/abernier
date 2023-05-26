@@ -3,6 +3,8 @@
 web:
 ---
 
+> **Note** <br>Contact me on [Discord](https://discordapp.com/users/437918779851145226)
+
 [articles](articles):
 [THREE spaces](https://github.com/abernier/abernier/blob/main/articles/three-spaces.md), 
 [vanilla2react](https://github.com/abernier/abernier/blob/main/articles/vanilla2react.md),
