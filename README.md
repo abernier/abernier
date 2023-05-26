@@ -3,7 +3,7 @@
 web:
 ---
 
-> **Note** <br>Contact me on [Discord](https://discordapp.com/users/437918779851145226)
+> **Note** <br>Contact me on [Discord](https://discord.com/channels/abernier)
 
 [articles](articles):
 [THREE spaces](https://github.com/abernier/abernier/blob/main/articles/three-spaces.md), 
