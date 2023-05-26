@@ -11,8 +11,7 @@ Misc
 
 > **Warning** Be careful
 
-> **Note**
-> This is a note
+> **Note** <br>This is a note
 
 <!--
 I'm a comment
