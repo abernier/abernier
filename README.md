@@ -42,9 +42,6 @@ web:
 <a title="rt/pp Autofocus" href="https://codesandbox.io/s/yf65vw">
   <img width="80" height="45" src="https://user-images.githubusercontent.com/76580/236540371-54a2bcb7-a10b-4ae5-8294-b088afa8fcdd.png" />
 </a>
-<a title="rt/drei FaceControls" href="https://codesandbox.io/s/bf01sb">
-  <img width="80" height="45" src="https://github.com/abernier/abernier/assets/76580/2138ef30-48f3-4ae9-b2bb-4f600de0a35e" />
-</a>
 
 
 <details>
@@ -57,6 +54,9 @@ web:
 </a>
 <a title="r3f cloth using cannon-es" href="https://codesandbox.io/s/040ieb">
   <img width="80" height="45" src="https://user-images.githubusercontent.com/76580/232129651-ede7f8a5-b245-44e2-9d6b-20ea5301786e.png" />
+</a>
+<a title="rt/drei FaceControls" href="https://codesandbox.io/s/bf01sb">
+  <img width="80" height="45" src="https://github.com/abernier/abernier/assets/76580/2138ef30-48f3-4ae9-b2bb-4f600de0a35e" />
 </a>
 </details>
 
