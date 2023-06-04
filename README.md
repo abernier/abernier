@@ -43,7 +43,7 @@ web:
   <img width="80" height="45" src="https://user-images.githubusercontent.com/76580/236540371-54a2bcb7-a10b-4ae5-8294-b088afa8fcdd.png" />
 </a>
 <a title="rt/drei FaceControls" href="https://codesandbox.io/s/bf01sb">
-  <img width="80" height="45" src="https://github.com/abernier/abernier/assets/76580/4cc1a4bb-1e1d-45bb-a145-3a8816745481" />
+  <img width="80" height="45" src="https://github.com/abernier/abernier/assets/76580/2138ef30-48f3-4ae9-b2bb-4f600de0a35e" />
 </a>
 
 
