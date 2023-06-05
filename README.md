@@ -55,8 +55,8 @@ web:
 <a title="r3f cloth using cannon-es" href="https://codesandbox.io/s/040ieb">
   <img width="80" height="45" src="https://user-images.githubusercontent.com/76580/232129651-ede7f8a5-b245-44e2-9d6b-20ea5301786e.png" />
 </a>
-<a title="rt/drei FaceControls" href="https://codesandbox.io/s/bf01sb">
-  <img width="80" height="45" src="https://github.com/abernier/abernier/assets/76580/2138ef30-48f3-4ae9-b2bb-4f600de0a35e" />
+<a title="rt/drei FaceControls" href="https://codesandbox.io/s/jfx2t6">
+  <img width="80" height="45" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76580/243503368-6239eb74-8473-4131-9203-33b29c1bbec0.png" />
 </a>
 </details>
 
