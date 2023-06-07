@@ -15,7 +15,7 @@ web:
 </a>
 -->
 
-<a title="rt/drei FaceControls" href="[https://codesandbox.io/s/yf65vw](https://codesandbox.io/s/zhjbhy)">
+<a title="rt/drei FaceControls" href="https://codesandbox.io/s/yf65vw">
   <img width="80" height="45" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76580/244052845-5cc535d7-3c97-46e3-a267-52e707c2d9b2.png" />
 </a>
 <a title="Kira" href="https://abernier.name/three.js/examples/webgl_esher.html">
