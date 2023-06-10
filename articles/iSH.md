@@ -6,9 +6,9 @@ Get your local ip, here: `170.20.10.2`
 
 From iSH:
 ```sh
-# ssh-keygen -t rsa
-# ssh-copy-id -i ~/.ssh/id_rsa.pub abernier@170.20.10.2
-# echo "alias mpb='ssh abernier@170.20.10.2'"
-# mpb
+aberniers-iPhone:~# ssh-keygen -t rsa
+aberniers-iPhone:~# ssh-copy-id -i ~/.ssh/id_rsa.pub abernier@170.20.10.2
+aberniers-iPhone:~# echo "alias mpb='ssh abernier@170.20.10.2'"
+aberniers-iPhone:~# mpb
 mbp2:~ abernier$ 
 ```
