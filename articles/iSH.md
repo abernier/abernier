@@ -4,7 +4,8 @@
 
 Get your local ip, here: `170.20.10.2`
 
-```
+From iSH:
+```sh
 # ssh-keygen -t rsa
 # ssh-copy-id -i ~/.ssh/id_rsa.pub abernier@170.20.10.2
 # echo "alias mpb='ssh abernier@170.20.10.2'"
