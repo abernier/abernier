@@ -1,7 +1,0 @@
-- Enable ssh on your mac
-  
-
-```
-# ssh-keygen -t rsa
-# ssh-copy-id -i ~/.ssh/id_rsa.pub abernier@mbp2
-```
