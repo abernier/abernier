@@ -2,7 +2,7 @@
   <img width="827" alt="image" src="https://github.com/abernier/abernier/assets/76580/8df7d200-f522-433e-9a22-6bcbf9d21d86">
 - Install [iSH](https://ish.app/) app
 
-Get your local ip, here: `170.20.10.2`
+Get your local ip, here: `170.20.10.2` (connected through iPhone's hotspot)
 
 From iSH:
 ```sh
