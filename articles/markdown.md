@@ -11,27 +11,31 @@ Misc
 
 > **Warning** Be careful
 
-> **Note** <br>my subtitle
+> **Note** <br>my subtitle note
 >
-> Lorem ipsum dolor sit amet. Et caetera vidisum et hoc virkem.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie pretium diam, eu varius nisi malesuada vitae. Phasellus quis turpis ut ipsum gravida varius.
 >
 > ```js
 > // code also works inside
 > console.log("this is cool")
 > ```
 >
-> - [ ] everything
-> - [x] really
+> Lists also:
+> - [ ] task A
+>   - [ ] subtask A.1
+>   - [x] subtask A.2 done
+> - [ ] task B
 >
+> Tables too
 > |ColA|ColB|
 > |-|-|
 > |one|two|
 >
-> > even quotes :D
+> > Even quotes :D
+> > > That's crazy man!
 >
-> ## Also headings
->
-> everything
+> ## Even headings
+> ### Or subheadings
 >
 > <details><summary>Details also</summary>
 > <div>
@@ -46,7 +50,7 @@ Misc
 > </div>
 > </details>
 >
-> permalinks
+> and permalinks
 > https://github.com/abernier/abernier/blob/81876e46681f01d4f0d80c7b80489ecc7dfbaedc/docs/test.md?plain=1#L1
 
 <!--
