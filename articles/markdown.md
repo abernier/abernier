@@ -42,12 +42,7 @@ Misc
 > <details><summary>Details also</summary>
 > <div>
 > 
-> #### We can hide anything, even code![^1]
-> [^1]: My reference.
-> 
-> ```ruby
->    puts "Hello World"
-> ```
+> coucou details
 > 
 > </div>
 > </details>
