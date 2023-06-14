@@ -19,6 +19,13 @@ Misc
 > // code also works inside
 > console.log("this is cool")
 > ```
+>
+> - [ ] everything
+> - [x] really?
+>
+> |ColA|ColB|
+> |-|-|
+> |one|two|
 
 <!--
 I'm a comment
