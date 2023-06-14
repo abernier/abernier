@@ -21,11 +21,33 @@ Misc
 > ```
 >
 > - [ ] everything
-> - [x] really?
+> - [x] really
 >
 > |ColA|ColB|
 > |-|-|
 > |one|two|
+>
+> > even quotes :D
+>
+> ## Also headings
+>
+> everything
+>
+> <details><summary>Details also</summary>
+> <div>
+> 
+> #### We can hide anything, even code![^1]
+> [^1]: My reference.
+> 
+> ```ruby
+>    puts "Hello World"
+> ```
+> 
+> </div>
+> </details>
+>
+> permalinks
+> https://github.com/abernier/abernier/blob/81876e46681f01d4f0d80c7b80489ecc7dfbaedc/docs/test.md?plain=1#L1
 
 <!--
 I'm a comment
