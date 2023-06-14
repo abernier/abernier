@@ -31,8 +31,10 @@ Misc
 > |-|-|
 > |one|two|
 >
-> > Even quotes :D
-> > > That's crazy man!
+> > **Note** <br>my subtitle note
+> > 
+> > Even nested note-quotes :D
+> > > That's crazy man! Go get treated
 >
 > ## Even headings
 > ### Or subheadings
