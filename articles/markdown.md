@@ -31,10 +31,10 @@ Misc
 > |-|-|
 > |one|two|
 >
-> > **Note** <br>my subtitle note
-> > 
-> > Even nested note-quotes :D
-> > > That's crazy man! Go get treated
+> > **Note** <br>Even **nested** note-quotes
+> >
+> > That's crazy man! Go get treated 💊
+> > > I know
 >
 > ## Even headings
 > ### Or subheadings
