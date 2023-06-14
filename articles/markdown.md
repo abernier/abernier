@@ -11,7 +11,14 @@ Misc
 
 > **Warning** Be careful
 
-> **Note** <br>This is a note
+> **Note** <br>my subtitle
+>
+> Lorem ipsum dolor sit amet. Et caetera vidisum et hoc virkem.
+>
+> ```js
+> // code also works inside
+> console.log("this is cool")
+> ```
 
 <!--
 I'm a comment
