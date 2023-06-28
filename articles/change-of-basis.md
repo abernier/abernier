@@ -39,3 +39,4 @@ ie, to express a vector:
 ## Colophon
 
 - https://youtu.be/HgQzOmnBGCo
+- http://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
