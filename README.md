@@ -82,6 +82,8 @@ scriptkit: [reveal-password](https://gist.github.com/abernier/582e1458195ec34268
 [devcontainer](https://github.com/pmndrs/drei/pull/1250),
 [`<CameraControls>`](https://github.com/pmndrs/drei/pull/1237)
 <br>
+[assets](https://github.com/pmndrs/assets)
+<br>
 [react-postprocessing](https://github.com/pmndrs/react-postprocessing/pulls?q=is%3Apr+author%3Aabernier+):
 [Storybook 7](https://github.com/pmndrs/react-postprocessing/pull/202), [semantic-release](https://github.com/pmndrs/react-postprocessing/pull/194),
 [`<Autofocus>`](https://github.com/pmndrs/react-postprocessing/pull/192)
