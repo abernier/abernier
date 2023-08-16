@@ -72,6 +72,7 @@ scriptkit: [reveal-password](https://gist.github.com/abernier/582e1458195ec34268
 [`CCDIKSolver`](https://github.com/mrdoob/three.js/pull/23449)
 <br>
 [drei](https://github.com/pmndrs/drei/pulls?q=is%3Apr+author%3Aabernier+):
+[`test/e2e`](https://github.com/pmndrs/drei/pull/1549),
 [`<FaceControls>`](https://github.com/pmndrs/drei/pull/1461),
 [`<Example>`](https://github.com/pmndrs/drei/pull/1439),
 [`<Resize>`](https://github.com/pmndrs/drei/pull/1420),
