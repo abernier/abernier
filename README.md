@@ -63,7 +63,7 @@ web:
 </a>
 </details>
 
-scriptkit: [reveal-password](https://gist.github.com/abernier/582e1458195ec34268305298e4b3b86b)
+[scriptkit](https://www.scriptkit.com/abernier): [reveal-password](https://gist.github.com/abernier/582e1458195ec34268305298e4b3b86b)
 
 [three.js](https://github.com/mrdoob/three.js/pulls?q=is%3Apr+author%3Aabernier+):
 [devcontainer](https://github.com/mrdoob/three.js/pull/26055),
