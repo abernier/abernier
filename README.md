@@ -7,6 +7,7 @@ web:
 [THREE spaces](https://github.com/abernier/abernier/blob/main/articles/three-spaces.md), 
 [vanilla2react](https://github.com/abernier/abernier/blob/main/articles/vanilla2react.md),
 [markdown](https://github.com/abernier/abernier/blob/main/articles/markdown.md),
+[toggleDarkMode](https://gist.github.com/abernier/6ec6c675354cad560a4a613630a5e334),
 <kbd>[new](https://github.com/abernier/abernier/new/main/articles)</kbd>
 
 <!--
