@@ -15,12 +15,24 @@ web:
 </a>
 -->
 
+<div>
+  
 <a title="Kira" href="https://abernier.name/three.js/examples/webgl_esher.html">
-  <img width="80" height="45" src="https://user-images.githubusercontent.com/76580/232128844-63a61e34-88d5-43cb-8378-f302e02af498.png" />
+  <img width="164" height="92" src="https://user-images.githubusercontent.com/76580/232128844-63a61e34-88d5-43cb-8378-f302e02af498.png" />
 </a>
 <a title="CCDIKSolver example" href="https://threejs.org/examples/#webgl_animation_skinning_ik">
-  <img width="80" height="45" src="https://threejs.org/examples/screenshots/webgl_animation_skinning_ik.jpg" />
+  <img width="164" height="92" src="https://threejs.org/examples/screenshots/webgl_animation_skinning_ik.jpg" />
 </a>
+<a title="rt/pp Autofocus" href="https://codesandbox.io/s/yf65vw">
+  <img width="164" height="92" src="https://user-images.githubusercontent.com/76580/236540371-54a2bcb7-a10b-4ae5-8294-b088afa8fcdd.png" />
+</a>
+<a title="rt/drei FaceControls" href="https://codesandbox.io/s/zhjbhy">
+  <img width="164" height="92" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76580/244052845-5cc535d7-3c97-46e3-a267-52e707c2d9b2.png" />
+</a>
+
+</div>
+
+<div>
 <a title="Sticky r3f birds" href="https://abernier.github.io/r3f-sticky/">
   <img width="80" height="45" src="https://user-images.githubusercontent.com/76580/232123657-2660f1d7-acfc-489e-a6b5-1333e3b4bebe.png" />
 </a>
@@ -39,29 +51,22 @@ web:
 <a title="rt/pp Autofocus" href="https://codesandbox.io/s/dfw6w4">
   <img width="80" height="45" src="https://user-images.githubusercontent.com/76580/235352374-9bfd85cb-27bb-4917-b0ee-5513cea3280b.png" />
 </a>
-<a title="rt/pp Autofocus" href="https://codesandbox.io/s/yf65vw">
-  <img width="80" height="45" src="https://user-images.githubusercontent.com/76580/236540371-54a2bcb7-a10b-4ae5-8294-b088afa8fcdd.png" />
-</a>
-<a title="rt/drei FaceControls" href="https://codesandbox.io/s/zhjbhy">
-  <img width="80" height="45" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76580/244052845-5cc535d7-3c97-46e3-a267-52e707c2d9b2.png" />
-</a>
+</div>
 
-
-<details>
-<summary></summary>
+<div>
 <a title="DepthPickingPass" href="https://codesandbox.io/s/x130hg">
-  <img width="80" height="45" src="https://user-images.githubusercontent.com/76580/235352306-49c0dbca-d54e-438e-85c6-8a9160e09e91.png" />
+  <img width="38" height="21" src="https://user-images.githubusercontent.com/76580/235352306-49c0dbca-d54e-438e-85c6-8a9160e09e91.png" />
 </a>
 <a title="r3f Facemesh" href="https://codesandbox.io/s/4lzxrr">
-  <img width="80" height="45" src="https://user-images.githubusercontent.com/76580/233414240-81a6e4bc-429b-47cf-b483-3b4b70bad50b.png" />
+  <img width="38" height="21" src="https://user-images.githubusercontent.com/76580/233414240-81a6e4bc-429b-47cf-b483-3b4b70bad50b.png" />
 </a>
 <a title="r3f cloth using cannon-es" href="https://codesandbox.io/s/040ieb">
-  <img width="80" height="45" src="https://user-images.githubusercontent.com/76580/232129651-ede7f8a5-b245-44e2-9d6b-20ea5301786e.png" />
+  <img width="38" height="21" src="https://user-images.githubusercontent.com/76580/232129651-ede7f8a5-b245-44e2-9d6b-20ea5301786e.png" />
 </a>
 <a title="rt/drei FaceControls" href="https://codesandbox.io/s/jfx2t6">
-  <img width="80" height="45" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76580/243503368-6239eb74-8473-4131-9203-33b29c1bbec0.png" />
+  <img width="38" height="21" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76580/243503368-6239eb74-8473-4131-9203-33b29c1bbec0.png" />
 </a>
-</details>
+</div>
 
 [scriptkit](https://www.scriptkit.com/abernier):
 [reveal-password](https://www.scriptkit.com/abernier/reveal-password),
