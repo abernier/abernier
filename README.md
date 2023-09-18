@@ -65,7 +65,7 @@ web:
 
 [scriptkit](https://www.scriptkit.com/abernier):
 [reveal-password](https://www.scriptkit.com/abernier/reveal-password),
-[lorem-ipsum](https://www.scriptkit.com/abernier/lorem-ipsum-text)
+[lorem-ipsum](https://www.scriptkit.com/abernier/lorem-ipsum)
 
 [three.js](https://github.com/mrdoob/three.js/pulls?q=is%3Apr+author%3Aabernier+):
 [devcontainer](https://github.com/mrdoob/three.js/pull/26055),
