@@ -8,6 +8,7 @@ web:
 [vanilla2react](https://github.com/abernier/abernier/blob/main/articles/vanilla2react.md),
 [markdown](https://github.com/abernier/abernier/blob/main/articles/markdown.md),
 [toggleDarkMode](https://gist.github.com/abernier/6ec6c675354cad560a4a613630a5e334),
+[hideAppsToYourBattery](https://www.linkedin.com/pulse/hide-apps-your-battery-antoine-bernier),
 <kbd>[new](https://github.com/abernier/abernier/new/main/articles)</kbd>
 
 <!--
