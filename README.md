@@ -4,7 +4,7 @@ web:
 ---
 
 [articles](articles):
-[Automating `package-lock.json` conflicts resolution](https://www.linkedin.com/pulse/automating-package-lockjson-conflicts-resolution-antoine-bernier-jisyc/?trackingId=z7Y3pBaRSAy67tFGVtagDQ%3D%3D),
+[Automating package-lock.json conflicts resolution](https://www.linkedin.com/pulse/automating-package-lockjson-conflicts-resolution-antoine-bernier-jisyc/?trackingId=z7Y3pBaRSAy67tFGVtagDQ%3D%3D),
 [brew-up](https://www.linkedin.com/pulse/brew-up-antoine-bernier/),
 [fixed IP tunneling](https://www.linkedin.com/pulse/fixed-ip-tunneling-antoine-bernier/),
 [hideAppsToYourBattery](https://www.linkedin.com/pulse/hide-apps-your-battery-antoine-bernier),
