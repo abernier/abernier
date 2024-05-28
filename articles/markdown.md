@@ -9,9 +9,11 @@ Markdown cheatsheet
 Misc
 ---
 
-> **Warning** Be careful
+> [!WARNING]
+> 
+> Be careful
 
-> **Note** <br>my subtitle note
+> [!NOTE]
 >
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie pretium diam, eu varius nisi malesuada vitae. Phasellus quis turpis ut ipsum gravida varius.
 >
