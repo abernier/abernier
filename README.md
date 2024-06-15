@@ -78,13 +78,13 @@ web:
 [lorem-ipsum](https://www.scriptkit.com/abernier/lorem-ipsum-text),
 [generate-password](https://www.scriptkit.com/abernier/generate-password)
 
-[three.js](https://github.com/mrdoob/three.js/pulls?q=is%3Apr+author%3Aabernier+):
+🔻[three.js](https://github.com/mrdoob/three.js/pulls?q=is%3Apr+author%3Aabernier+):
 [devcontainer](https://github.com/mrdoob/three.js/pull/26055),
 [`BufferGeometry`](https://github.com/mrdoob/three.js/pull/25824),
 [IK example](https://github.com/mrdoob/three.js/pull/24652),
 [`CCDIKSolver`](https://github.com/mrdoob/three.js/pull/23449)
 <br>
-[drei](https://github.com/pmndrs/drei/pulls?q=is%3Apr+author%3Aabernier+):
+🥉[drei](https://github.com/pmndrs/drei/pulls?q=is%3Apr+author%3Aabernier+):
 [`test/e2e`](https://github.com/pmndrs/drei/pull/1549),
 [`<FaceControls>`](https://github.com/pmndrs/drei/pull/1461),
 [`<Example>`](https://github.com/pmndrs/drei/pull/1439),
@@ -95,9 +95,9 @@ web:
 [devcontainer](https://github.com/pmndrs/drei/pull/1250),
 [`<CameraControls>`](https://github.com/pmndrs/drei/pull/1237)
 <br>
-[assets](https://github.com/pmndrs/assets)
+📦[assets](https://github.com/pmndrs/assets)
 <br>
-[react-postprocessing](https://github.com/pmndrs/react-postprocessing/pulls?q=is%3Apr+author%3Aabernier+):
+📬[react-postprocessing](https://github.com/pmndrs/react-postprocessing/pulls?q=is%3Apr+author%3Aabernier+):
 [Storybook 7](https://github.com/pmndrs/react-postprocessing/pull/202), [semantic-release](https://github.com/pmndrs/react-postprocessing/pull/194),
 [`<Autofocus>`](https://github.com/pmndrs/react-postprocessing/pull/192)
 <br>
