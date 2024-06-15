@@ -73,7 +73,7 @@ web:
   </a>
 </div><br>
 
-[scriptkit](https://www.scriptkit.com/abernier):
+▶️[scriptkit](https://www.scriptkit.com/abernier):
 [reveal-password](https://www.scriptkit.com/abernier/reveal-password),
 [lorem-ipsum](https://www.scriptkit.com/abernier/lorem-ipsum-text),
 [generate-password](https://www.scriptkit.com/abernier/generate-password)
@@ -101,7 +101,7 @@ web:
 [Storybook 7](https://github.com/pmndrs/react-postprocessing/pull/202), [semantic-release](https://github.com/pmndrs/react-postprocessing/pull/194),
 [`<Autofocus>`](https://github.com/pmndrs/react-postprocessing/pull/192)
 <br>
-[camera-controls](https://github.com/yomotsu/camera-controls/pulls?q=is%3Apr+author%3Aabernier+):
+📽️[camera-controls](https://github.com/yomotsu/camera-controls/pulls?q=is%3Apr+author%3Aabernier+):
 [devcontainer](https://github.com/yomotsu/camera-controls/pull/370),
 [semantic-release](https://github.com/yomotsu/camera-controls/pull/365),
 [`.connect()`](https://github.com/yomotsu/camera-controls/pull/338)
