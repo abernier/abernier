@@ -28,7 +28,7 @@ pmnd.rs.		1066	IN	A	76.76.21.61
 
 This is great...
 
-## Avoid cache -- `@127.0.0.1`
+## DNS server cache -- how to avoid it
 
 Though, the only drawback is, as you query the domain with `dig`, your internet provider DNS server, will eventually cache the response...
 
