@@ -5,26 +5,23 @@ But you can actually debug it with `dig`:
 ```sh
 $ dig pmnd.rs
 
-; <<>> DiG 9.10.6 <<>> @127.0.0.1 pmnd.rs
-; (1 server found)
+; <<>> DiG 9.10.6 <<>> pmnd.rs
 ;; global options: +cmd
 ;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27036
-;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31071
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
 
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 1232
 ;; QUESTION SECTION:
 ;pmnd.rs.			IN	A
 
 ;; ANSWER SECTION:
-pmnd.rs.		1800	IN	A	76.76.21.123
-pmnd.rs.		1800	IN	A	76.76.21.98
+pmnd.rs.		1066	IN	A	76.76.21.9
+pmnd.rs.		1066	IN	A	76.76.21.61
 
-;; Query time: 150 msec
-;; SERVER: 127.0.0.1#53(127.0.0.1)
-;; WHEN: Mon Jul 15 11:33:43 CEST 2024
-;; MSG SIZE  rcvd: 68
+;; Query time: 43 msec
+;; SERVER: 2a01:cb01:820:971::24#53(2a01:cb01:820:971::24)
+;; WHEN: Mon Jul 15 11:45:57 CEST 2024
+;; MSG SIZE  rcvd: 57
 ```
 
 This is great...
