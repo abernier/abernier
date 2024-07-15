@@ -27,7 +27,11 @@ pmnd.rs.		1800	IN	A	76.76.21.98
 ;; MSG SIZE  rcvd: 68
 ```
 
-The only drawback is, as you query the domain, your internet provider DNS server, will eventually cache the response...
+This is great...
+
+---
+
+Though, the only drawback is, as you query the domain, your internet provider DNS server, will eventually cache the response...
 
 So install your own DNS server:
 
