@@ -1,5 +1,7 @@
 Sometimes you update your DNS zone/records, and wait for it propagates...
 
+![image](https://github.com/user-attachments/assets/8e340f59-8304-4a52-a9fa-9dedb0b689ed)
+
 But you can actually debug it with `dig`:
 
 ```sh
