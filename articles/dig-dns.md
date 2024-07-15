@@ -1,3 +1,5 @@
+> Waiting is unbearable, debugging passes the time.
+
 Sometimes you update your DNS zone/records, and wait for it propagates...
 
 ![image](https://github.com/user-attachments/assets/8e340f59-8304-4a52-a9fa-9dedb0b689ed)
