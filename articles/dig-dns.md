@@ -1,4 +1,4 @@
-> Waiting is unbearable, debugging passes the time.
+> Waiting is unbearable, debugging is more fun
 
 Sometimes you update your DNS zone/records, and wait for it propagates...
 
