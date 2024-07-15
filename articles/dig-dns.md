@@ -30,6 +30,8 @@ This is great...
 
 Though, the only drawback is, as you query the domain, your internet provider DNS server, will eventually cache the response...
 
+<img width="827" alt="image" src="https://github.com/user-attachments/assets/e74bc33e-1693-42f8-b6c4-d2a84f519780">
+
 So install your own DNS server:
 
 ```sh
