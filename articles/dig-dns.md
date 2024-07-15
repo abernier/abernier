@@ -26,7 +26,7 @@ pmnd.rs.		1066	IN	A	76.76.21.61
 
 This is great...
 
-## `@127.0.0.1`
+## Avoid cache -- `@127.0.0.1`
 
 Though, the only drawback is, as you query the domain, your internet provider DNS server, will eventually cache the response...
 
