@@ -115,9 +115,7 @@ web:
 
 rss/atom: [github](https://api.github.com/users/abernier/events) - [discourse.threejs](https://discourse.threejs.org/u/abernier/activity.rss) - Youtube [history](https://youtube.com/feed/history) | [liked](https://youtube.com/playlist?list=LL) - Google [my Activity](https://myactivity.google.com/myactivity)
 
-- [abernier/bug-*](https://github.com/abernier?tab=repositories&q=bug-) -- bugs reproductions
-- [abernier/tpl-*](https://github.com/abernier?tab=repositories&q=tpl-) -- template repos
-- [abernier/poc-*](https://github.com/abernier?tab=repositories&q=poc-) -- POC repos
+abernier/{[bug-*](https://github.com/abernier?tab=repositories&q=bug-),[tpl-*](https://github.com/abernier?tab=repositories&q=tpl-),[poc-*](https://github.com/abernier?tab=repositories&q=poc-)}
 
 <sup><sub>
 [abernier.link](https://abernier.link/)
