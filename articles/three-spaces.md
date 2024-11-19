@@ -177,6 +177,8 @@ sequenceDiagram
 
 ## Screen
 
+[![](https://docs.google.com/drawings/d/e/2PACX-1vS8XHBK6UUptS62Jkv8O4SgfdQ-x9KWSAMMbVSwR8GDFatS23k_ozwa6BPz-c_VI1m4Mzawkqsu94aM/pub?w=1440&h=1080)](https://docs.google.com/drawings/d/1RI6tYwoHcmJ5nASYFtumOS9CSJUysieyRznOsQ5f4t4/edit)
+
 - [`Camera.projectionMatrix`](https://threejs.org/docs/index.html?q=matri#api/en/cameras/Camera.projectionMatrix) -- Camera space to NDC space
 - `viewportMatrix` -- NDC space to screen space
 - [`Vector3.project`](https://threejs.org/docs/index.html?q=vector#api/en/math/Vector3.project) ([source](https://github.com/mrdoob/three.js/blob/2a8a3faef5d2f8961026a23e1002d3f7d7ee5b87/src/math/Vector3.js#L315-L319)) -- world space to NDC space
