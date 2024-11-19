@@ -146,7 +146,7 @@ NB: There also exist [`Object3d.getWorldPosition`](https://threejs.org/docs/#api
 
 ## Camera - `Object3D.modelViewMatrix` shortcut
 
-![](https://docs.google.com/drawings/d/e/2PACX-1vTQP13uFWiqM3IX8ZZILz5SW3kwg8r9DkUV1OwzvR7QcU34y_1heZqJJVDyFsqv-ipHs5TXcXvkc071/pub?w=1440&h=1080)
+[![](https://docs.google.com/drawings/d/e/2PACX-1vTQP13uFWiqM3IX8ZZILz5SW3kwg8r9DkUV1OwzvR7QcU34y_1heZqJJVDyFsqv-ipHs5TXcXvkc071/pub?w=1440&h=1080)](https://docs.google.com/drawings/d/1eJa-7MOPR5sXypAX5hTJkegBwtLOnBdLGjKCacWR7Sw/edit)
 
 As already said, `Camera` is a regular `Object3d`: so it has a `.matrix` and a `.matrixWorld` property.
 
