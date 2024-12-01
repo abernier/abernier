@@ -73,18 +73,9 @@ web:
   </a>
 </div><br>
 
-▶️[scriptkit](https://www.scriptkit.com/abernier):
-[reveal-password](https://www.scriptkit.com/abernier/reveal-password),
-[lorem-ipsum](https://www.scriptkit.com/abernier/lorem-ipsum-text),
-[generate-password](https://www.scriptkit.com/abernier/generate-password)
-
-🔻[three.js](https://github.com/mrdoob/three.js/pulls?q=is%3Apr+author%3Aabernier+):
-[devcontainer](https://github.com/mrdoob/three.js/pull/26055),
-[`BufferGeometry`](https://github.com/mrdoob/three.js/pull/25824),
-[IK example](https://github.com/mrdoob/three.js/pull/24652),
-[`CCDIKSolver`](https://github.com/mrdoob/three.js/pull/23449)
-<br>
 🥉[drei](https://github.com/pmndrs/drei/pulls?q=is%3Apr+author%3Aabernier+):
+[`<WebcamVideoTexture>`/`ScreenVideoTexture`](https://github.com/pmndrs/drei/pull/2240),
+[`VideoTexture[onVideoFrame]`](https://github.com/pmndrs/drei/pull/2238),
 [CSF3](https://github.com/pmndrs/drei/pull/1974), 
 [`test/e2e`](https://github.com/pmndrs/drei/pull/1549),
 [`<FaceControls>`](https://github.com/pmndrs/drei/pull/1461),
@@ -96,6 +87,12 @@ web:
 [devcontainer](https://github.com/pmndrs/drei/pull/1250),
 [`<CameraControls>`](https://github.com/pmndrs/drei/pull/1237)
 <br>
+▿[three.js](https://github.com/mrdoob/three.js/pulls?q=is%3Apr+author%3Aabernier+):
+[devcontainer](https://github.com/mrdoob/three.js/pull/26055),
+[`BufferGeometry`](https://github.com/mrdoob/three.js/pull/25824),
+[IK example](https://github.com/mrdoob/three.js/pull/24652),
+[`CCDIKSolver`](https://github.com/mrdoob/three.js/pull/23449)
+<br>
 📦[assets](https://github.com/pmndrs/assets)
 <br>
 📬[react-postprocessing](https://github.com/pmndrs/react-postprocessing/pulls?q=is%3Apr+author%3Aabernier+):
@@ -106,6 +103,11 @@ web:
 [devcontainer](https://github.com/yomotsu/camera-controls/pull/370),
 [semantic-release](https://github.com/yomotsu/camera-controls/pull/365),
 [`.connect()`](https://github.com/yomotsu/camera-controls/pull/338)
+
+▶️[scriptkit](https://www.scriptkit.com/abernier):
+[reveal-password](https://www.scriptkit.com/abernier/reveal-password),
+[lorem-ipsum](https://www.scriptkit.com/abernier/lorem-ipsum-text),
+[generate-password](https://www.scriptkit.com/abernier/generate-password)
 
 [discourse.threejs.org](https://discourse.threejs.org/u/abernier/activity/topics): [`localToLocal`](https://discourse.threejs.org/t/object3d-localtolocal/51564)
 <br>
