@@ -119,6 +119,8 @@ rss/atom: [github](https://api.github.com/users/abernier/events) - [discourse.th
 
 abernier/{[bug-*](https://github.com/abernier?tab=repositories&q=bug-),[tpl-*](https://github.com/abernier?tab=repositories&q=tpl-),[poc-*](https://github.com/abernier?tab=repositories&q=poc-)}
 
+sponsors: [https://youtube.com/@bytegrad?si=sVBEYrV6VP2kAJ2O](ByteGrad)
+
 <sup><sub>
 [abernier.link](https://abernier.link/)
 </sub></sup>
