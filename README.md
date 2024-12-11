@@ -74,7 +74,8 @@ web:
 </div><br>
 
 🥉[drei](https://github.com/pmndrs/drei/pulls?q=is%3Apr+author%3Aabernier+):
-[`<WebcamVideoTexture>`/`ScreenVideoTexture`](https://github.com/pmndrs/drei/pull/2240),
+[`<Raycaster>`](https://github.com/pmndrs/drei/pull/2266),
+[`<WebcamVideoTexture>`/`<ScreenVideoTexture>`](https://github.com/pmndrs/drei/pull/2240),
 [`VideoTexture[onVideoFrame]`](https://github.com/pmndrs/drei/pull/2238),
 [CSF3](https://github.com/pmndrs/drei/pull/1974), 
 [`test/e2e`](https://github.com/pmndrs/drei/pull/1549),
