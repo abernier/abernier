@@ -15,7 +15,7 @@ In a 3d environment, a "space" is defined by 3 perpendicular axes and an origin:
 It allows us to locate any "point" in this space, by its 3 coordinates components:
 [![image](https://docs.google.com/drawings/d/e/2PACX-1vQDwhYakAtd5OudiUgRExULy6C-LwD-KTuOe_k0DpkR3nAGWkj4LXOdYEt8f3rKgb7g3EA10YGq7EQu/pub?w=1440&h=1080)](https://docs.google.com/drawings/d/1kflQFDXOeOiT6VvMu_0fktmethV-jprDh9zLv8ZBshE/edit)
 
-**In THREE, a such space is called an [`Object3D`](https://threejs.org/docs/index.html?q=object#api/en/core/Object3D).**
+**In THREE, such a space is called an [`Object3D`](https://threejs.org/docs/index.html?q=object#api/en/core/Object3D).**
 
 ## World space
 
@@ -55,7 +55,7 @@ This shapes a tree/hierarchy of spaces.
 
 ## Transforms
 
-We can `position`, `rotate`, `scale` a such "space". An [`Object3D.matrix`](https://threejs.org/docs/index.html?q=matrix4#api/en/core/Object3D.matrix) property exists that holds all those transforms applied.
+We can `position`, `rotate`, `scale` such a "space". An [`Object3D.matrix`](https://threejs.org/docs/index.html?q=matrix4#api/en/core/Object3D.matrix) property exists that holds all those transforms applied.
 
 Learn more about Three [matrices](https://threejs.org/docs/#manual/en/introduction/Matrix-transformations).
 
