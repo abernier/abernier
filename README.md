@@ -24,16 +24,16 @@ web:
 
 <div>
   <a title="Kira" href="https://abernier.name/three.js/examples/webgl_esher.html">
-    <img width="164" height="92" src="https://user-images.githubusercontent.com/76580/232128844-63a61e34-88d5-43cb-8378-f302e02af498.png" />
+    <img width="152" height="85" src="https://user-images.githubusercontent.com/76580/232128844-63a61e34-88d5-43cb-8378-f302e02af498.png" />
   </a>
   <a title="CCDIKSolver example" href="https://threejs.org/examples/#webgl_animation_skinning_ik">
-    <img width="164" height="92" src="https://threejs.org/examples/screenshots/webgl_animation_skinning_ik.jpg" />
+    <img width="152" height="85" src="https://threejs.org/examples/screenshots/webgl_animation_skinning_ik.jpg" />
   </a>
   <a title="rt/pp Autofocus" href="https://codesandbox.io/s/yf65vw">
-    <img width="164" height="92" src="https://user-images.githubusercontent.com/76580/236540371-54a2bcb7-a10b-4ae5-8294-b088afa8fcdd.png" />
+    <img width="152" height="85" src="https://user-images.githubusercontent.com/76580/236540371-54a2bcb7-a10b-4ae5-8294-b088afa8fcdd.png" />
   </a>
   <a title="rt/drei FaceControls" href="https://codesandbox.io/s/zhjbhy">
-    <img width="164" height="92" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76580/244052845-5cc535d7-3c97-46e3-a267-52e707c2d9b2.png" />
+    <img width="152" height="85" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76580/244052845-5cc535d7-3c97-46e3-a267-52e707c2d9b2.png" />
   </a>
 </div>
 
